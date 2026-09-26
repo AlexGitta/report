@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "test": "deno test --allow-env ../_shared/routing/ .",
+    "check": "deno check index.ts ../_shared/routing/mod.ts"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "nodeModulesDir": "none",
+  "lock": false,
+  "tasks": {
+    "test": "deno test . ../_shared/ai/",
+    "check": "deno check index.ts handler.ts ../_shared/ai/classify.ts ../_shared/ai/categories.ts"
+  }
+}

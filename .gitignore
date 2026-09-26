@@ -1,0 +1,23 @@
+# Dependencies and build output
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Secrets: never commit (ANTHROPIC_API_KEY lives in supabase/functions/.env)
+.env
+.env.*
+*.pem
+*.key
+
+# Supabase local state
+supabase/.temp/
+supabase/.branches/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Expo template repo created by create-expo-app (kept as a backup, not part of this repo)
+mobile/.git-expo-template/

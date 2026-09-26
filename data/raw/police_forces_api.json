@@ -1,0 +1,1420 @@
+{
+ "source": "https://data.police.uk/api/forces",
+ "fetched_at": "2026-09-26T10:53:49.747Z",
+ "list": [
+  {
+   "id": "avon-and-somerset",
+   "name": "Avon and Somerset Constabulary"
+  },
+  {
+   "id": "bedfordshire",
+   "name": "Bedfordshire Police"
+  },
+  {
+   "id": "cambridgeshire",
+   "name": "Cambridgeshire Constabulary"
+  },
+  {
+   "id": "cheshire",
+   "name": "Cheshire Constabulary"
+  },
+  {
+   "id": "city-of-london",
+   "name": "City of London Police"
+  },
+  {
+   "id": "cleveland",
+   "name": "Cleveland Police"
+  },
+  {
+   "id": "cumbria",
+   "name": "Cumbria Constabulary"
+  },
+  {
+   "id": "derbyshire",
+   "name": "Derbyshire Constabulary"
+  },
+  {
+   "id": "devon-and-cornwall",
+   "name": "Devon & Cornwall Police"
+  },
+  {
+   "id": "dorset",
+   "name": "Dorset Police"
+  },
+  {
+   "id": "durham",
+   "name": "Durham Constabulary"
+  },
+  {
+   "id": "essex",
+   "name": "Essex Police"
+  },
+  {
+   "id": "gloucestershire",
+   "name": "Gloucestershire Constabulary"
+  },
+  {
+   "id": "greater-manchester",
+   "name": "Greater Manchester Police"
+  },
+  {
+   "id": "gwent",
+   "name": "Gwent Police"
+  },
+  {
+   "id": "hampshire",
+   "name": "Hampshire Constabulary"
+  },
+  {
+   "id": "dyfed-powys",
+   "name": "Dyfed-Powys Police"
+  },
+  {
+   "id": "hertfordshire",
+   "name": "Hertfordshire Constabulary"
+  },
+  {
+   "id": "humberside",
+   "name": "Humberside Police"
+  },
+  {
+   "id": "kent",
+   "name": "Kent Police"
+  },
+  {
+   "id": "lancashire",
+   "name": "Lancashire Constabulary"
+  },
+  {
+   "id": "leicestershire",
+   "name": "Leicestershire Police"
+  },
+  {
+   "id": "lincolnshire",
+   "name": "Lincolnshire Police"
+  },
+  {
+   "id": "merseyside",
+   "name": "Merseyside Police"
+  },
+  {
+   "id": "metropolitan",
+   "name": "Metropolitan Police Service"
+  },
+  {
+   "id": "norfolk",
+   "name": "Norfolk Constabulary"
+  },
+  {
+   "id": "north-wales",
+   "name": "North Wales Police"
+  },
+  {
+   "id": "north-yorkshire",
+   "name": "North Yorkshire Police"
+  },
+  {
+   "id": "northamptonshire",
+   "name": "Northamptonshire Police"
+  },
+  {
+   "id": "northumbria",
+   "name": "Northumbria Police"
+  },
+  {
+   "id": "nottinghamshire",
+   "name": "Nottinghamshire Police"
+  },
+  {
+   "id": "northern-ireland",
+   "name": "Police Service of Northern Ireland"
+  },
+  {
+   "id": "south-wales",
+   "name": "South Wales Police"
+  },
+  {
+   "id": "south-yorkshire",
+   "name": "South Yorkshire Police"
+  },
+  {
+   "id": "staffordshire",
+   "name": "Staffordshire Police"
+  },
+  {
+   "id": "suffolk",
+   "name": "Suffolk Constabulary"
+  },
+  {
+   "id": "surrey",
+   "name": "Surrey Police"
+  },
+  {
+   "id": "sussex",
+   "name": "Sussex Police"
+  },
+  {
+   "id": "thames-valley",
+   "name": "Thames Valley Police"
+  },
+  {
+   "id": "warwickshire",
+   "name": "Warwickshire Police"
+  },
+  {
+   "id": "west-mercia",
+   "name": "West Mercia Police"
+  },
+  {
+   "id": "west-midlands",
+   "name": "West Midlands Police"
+  },
+  {
+   "id": "west-yorkshire",
+   "name": "West Yorkshire Police"
+  },
+  {
+   "id": "wiltshire",
+   "name": "Wiltshire Police"
+  }
+ ],
+ "forces": [
+  {
+   "id": "avon-and-somerset",
+   "name": "Avon and Somerset Constabulary",
+   "description": null,
+   "url": "http://www.avonandsomerset.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/avonandsomersetpolice/"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "http://twitter.com/aspolice"
+    },
+    {
+     "type": "flickr",
+     "title": "flickr",
+     "description": null,
+     "url": "http://www.flickr.com/photos/aspolice"
+    },
+    {
+     "type": "youtube",
+     "title": "youtube",
+     "description": null,
+     "url": "http://www.youtube.com/user/ASPolice"
+    }
+   ]
+  },
+  {
+   "id": "bedfordshire",
+   "name": "Bedfordshire Police",
+   "description": null,
+   "url": "https://www.beds.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/bedspolice/"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://x.com/bedspolice"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.beds.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "cambridgeshire",
+   "name": "Cambridgeshire Constabulary",
+   "description": "<p>As the fastest growing county in England, Cambridgeshire is home to a rich diversity of history, culture and landscape. A predominantly rural county, Cambridgeshire includes the university city of Cambridge, the market towns of St Ives, Huntingdon and St Neots, the historic Fenland towns of Ramsey, Chatteris, Wisbech, Whittlesey, March, the historic cathedral city of Ely and the thriving city of Peterborough, a regional centre for commerce, industry, transport and leisure.</p><p>Cambridgeshire Constabulary is responsible for effective policing across the whole of Cambridgeshire, covering approximately 1,316 square miles of the East of England region. For policing purposes the county is divided into six districts, Peterborough, Huntingdonshire, Fenland, East Cambridgeshire, Cambridge City and South Cambridgeshire, each headed by a district commander with their own dedicated policing teams who know the local area inside out. Specialist officers and staff provide services such as major investigations, roads policing and public protection.</p>",
+   "url": "https://www.cambs.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "web",
+     "title": "Cambridgeshire Constabulary website",
+     "description": "<p>There's a wide range of information available on the Cambridgeshire Constabulary website, including crime maps showing levels of crime and anti-social behaviour in your area.  You can also email us directly with general queries, to thank our staff and officers or to make a complaint.</p>",
+     "url": "https://www.cambs.police.uk"
+    },
+    {
+     "type": "youtube",
+     "title": "YouTube",
+     "description": "<p>You can view the latest video and film clips from Cambridgeshire Constabulary on our YouTube site</p>",
+     "url": "https://www.youtube.com/CambridgeshirePolice"
+    },
+    {
+     "type": "twitter",
+     "title": "Twitter",
+     "description": "<p>Twitter</p>",
+     "url": "https://twitter.com/CambsCops"
+    }
+   ]
+  },
+  {
+   "id": "cheshire",
+   "name": "Cheshire Constabulary",
+   "description": null,
+   "url": "https://www.cheshire.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/cheshirepolice"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.cheshire.police.uk"
+    }
+   ]
+  },
+  {
+   "id": "city-of-london",
+   "name": "City of London Police",
+   "description": null,
+   "url": "https://www.cityoflondon.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.cityoflondon.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "cleveland",
+   "name": "Cleveland Police",
+   "description": "<p>Geographically Cleveland Police is one of the smallest Forces in England and Wales although the area is one of the most densely populated locations in the country, with 9.4 people per hectare compared to a national average of 3.6 people per hectare.</p>",
+   "url": "https://www.cleveland.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "youtube",
+     "title": "YouTube",
+     "description": "<p>Subscribe to Cleveland Police on YouTube</p>",
+     "url": "https://www.youtube.com/clevelandpolice"
+    },
+    {
+     "type": "twitter",
+     "title": "Twitter",
+     "description": "<p>Follow Cleveland Police on Twitter</p>",
+     "url": "https://twitter.com/ClevelandPolice"
+    },
+    {
+     "type": "facebook",
+     "title": "Facebook",
+     "description": "<p>Join the Cleveland Police Facebook page.</p>",
+     "url": "https://www.facebook.com/clevelandpolice/"
+    },
+    {
+     "type": "web",
+     "title": "website",
+     "description": "<p>Cleveland Police website</p>",
+     "url": "https://www.cleveland.police.uk"
+    }
+   ]
+  },
+  {
+   "id": "cumbria",
+   "name": "Cumbria Constabulary",
+   "description": null,
+   "url": "https://www.cumbria.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "web",
+     "title": "LinkedIn",
+     "description": "<p>Follow us on LinkedIn</p>",
+     "url": "https://uk.linkedin.com/company/cumbriapolice"
+    },
+    {
+     "type": "facebook",
+     "title": "Facebook",
+     "description": "<p>https://en-gb.facebook.com/cumbriapolice</p>",
+     "url": "https://en-gb.facebook.com/cumbriapolice"
+    },
+    {
+     "type": "twitter",
+     "title": "Twitter",
+     "description": "<p>Follow us on Twitter</p>",
+     "url": "https://twitter.com/cumbriapolice"
+    },
+    {
+     "type": "web",
+     "title": "Instagram",
+     "description": "<p>Follow us on Instagram</p>",
+     "url": "https://www.instagram.com/cumbriacops"
+    }
+   ]
+  },
+  {
+   "id": "derbyshire",
+   "name": "Derbyshire Constabulary",
+   "description": null,
+   "url": "http://www.derbyshire.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "rss",
+     "title": "RSS",
+     "description": "<p>Read our latest news via RSS.</p>",
+     "url": "https://www.derbyshire.police.uk/news/derbyshire/news/GetNewsRss/"
+    },
+    {
+     "type": "twitter",
+     "title": "Twitter",
+     "description": "<p>Follow us on Twitter.</p>",
+     "url": "http://www.twitter.com/DerbysPolice"
+    },
+    {
+     "type": "youtube",
+     "title": "YouTube",
+     "description": "<p>Watch our videos on YouTube.</p>",
+     "url": "http://www.youtube.com/DerbyshireConst"
+    },
+    {
+     "type": "facebook",
+     "title": "Facebook",
+     "description": "<p>Find us on Facebook.</p>",
+     "url": "http://www.facebook.com/derbyshireconstabulary"
+    }
+   ]
+  },
+  {
+   "id": "devon-and-cornwall",
+   "name": "Devon & Cornwall Police",
+   "description": null,
+   "url": "https://www.devon-cornwall.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/DevonAndCornwallPolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://x.com/DC_Police"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.devon-cornwall.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "dorset",
+   "name": "Dorset Police",
+   "description": null,
+   "url": "https://www.dorset.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/dorsetpolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://x.com/dorsetpolice"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.dorset.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "durham",
+   "name": "Durham Constabulary",
+   "description": "<p>Durham Constabulary polices the area of County Durham and Darlington Borough, which together occupy an area of 2,232 sq. km. The area is predominantly rural, with more than half of its residents living in settlements of less than 10,000 people. There are 12 main towns and over 260 small towns and villages, many of which are former colliery villages. The population of the constabulary area is estimated to be 604,900 (ONS mid year estimate 2007), of which 1.2% are from ethnic minority groups</p>",
+   "url": "https://www.durham.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "http://www.facebook.com/durhamconstabulary"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "http://www.twitter.com/durhampolice"
+    },
+    {
+     "type": "youtube",
+     "title": "youtube",
+     "description": null,
+     "url": "https://www.youtube.com/user/DurhamPolice999"
+    }
+   ]
+  },
+  {
+   "id": "essex",
+   "name": "Essex Police",
+   "description": "<p>Essex Police aims to help people, keep people safe and catch criminals.</p>",
+   "url": "https://www.essex.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/EssexPoliceUK"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://twitter.com/EssexPoliceUK"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.essex.police.uk"
+    },
+    {
+     "type": "telephone",
+     "title": "telephone",
+     "description": null,
+     "url": ""
+    }
+   ]
+  },
+  {
+   "id": "gloucestershire",
+   "name": "Gloucestershire Constabulary",
+   "description": null,
+   "url": "http://www.gloucestershire.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": ""
+    },
+    {
+     "type": "telephone",
+     "title": "telephone",
+     "description": null,
+     "url": ""
+    },
+    {
+     "type": "email",
+     "title": "email",
+     "description": null,
+     "url": ""
+    },
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": ""
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": ""
+    }
+   ]
+  },
+  {
+   "id": "greater-manchester",
+   "name": "Greater Manchester Police",
+   "description": null,
+   "url": "http://www.gmp.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "http://www.facebook.com/GtrManchesterPolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "http://twitter.com/gmpolice"
+    },
+    {
+     "type": "youtube",
+     "title": "youtube",
+     "description": null,
+     "url": "http://www.youtube.com/user/gmpolice"
+    },
+    {
+     "type": "flickr",
+     "title": "flickr",
+     "description": null,
+     "url": "http://www.flickr.com/photos/gmpolice1"
+    },
+    {
+     "type": "mobile",
+     "title": "mobile",
+     "description": null,
+     "url": "http://www.gmp.police.uk/content/index.html?ReadForm"
+    }
+   ]
+  },
+  {
+   "id": "gwent",
+   "name": "Gwent Police",
+   "description": "<p>We cover an area of 600 square miles, encompassing the five local authority areas of Blaenau Gwent, Caerphilly, Monmouthshire, Newport and Torfaen. The area is a combination of rural and urban. The road network carries large volumes of traffic including the M4 link to the South.</p>",
+   "url": "http://www.gwent.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "email",
+     "title": "email",
+     "description": null,
+     "url": ""
+    },
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/gwentpolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://twitter.com/gwentpolice"
+    }
+   ]
+  },
+  {
+   "id": "hampshire",
+   "name": "Hampshire Constabulary",
+   "description": "<p>Hampshire Constabulary is one of the biggest forces in the country, whose purpose is to deliver SAFER communities.  We police over 1,500 square miles; are home to a significant transport network including the M27 and M3, key rail hubs and two international airports; and critical national infrastructure.</p>",
+   "url": "https://www.hampshire.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": null,
+     "title": "Force Web Page",
+     "description": "<p>Most of our information can be accessed through the internet at our Home page.</p>",
+     "url": "http://www.hampshire.police.uk"
+    },
+    {
+     "type": null,
+     "title": "Hampshire on Facebook",
+     "description": "<p>Hampshire on Facebook</p>",
+     "url": "http://www.facebook.com/pages/Hampshire-Constabulary/22018596340"
+    },
+    {
+     "type": null,
+     "title": "Hampshire on Twitter",
+     "description": "<p>Hampshire on Twitter</p>",
+     "url": "http://twitter.com/hantspolice"
+    },
+    {
+     "type": null,
+     "title": "Hampshire on YouTube",
+     "description": "<p>Hampshire on YouTube</p>",
+     "url": "http://www.youtube.com/user/OfficialHantsPolice"
+    }
+   ]
+  },
+  {
+   "id": "dyfed-powys",
+   "name": "Dyfed-Powys Police",
+   "description": null,
+   "url": "https://www.dyfed-powys.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/DPPolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://x.com/DyfedPowys"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.dyfed-powys.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "hertfordshire",
+   "name": "Hertfordshire Constabulary",
+   "description": null,
+   "url": "https://www.herts.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.herts.police.uk"
+    }
+   ]
+  },
+  {
+   "id": "humberside",
+   "name": "Humberside Police",
+   "description": null,
+   "url": "https://www.humberside.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/humberbeat"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.humberside.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "kent",
+   "name": "Kent Police",
+   "description": null,
+   "url": "",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/kentpolice/"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://twitter.com/kent_police"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": ""
+    }
+   ]
+  },
+  {
+   "id": "lancashire",
+   "name": "Lancashire Constabulary",
+   "description": null,
+   "url": "https://www.lancashire.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/lancspolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://x.com/lancspolice"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.lancashire.police.uk"
+    }
+   ]
+  },
+  {
+   "id": "leicestershire",
+   "name": "Leicestershire Police",
+   "description": null,
+   "url": "http://www.leics.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "http://www.facebook.com/leicspolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "http://www.twitter.com/leicspolice"
+    },
+    {
+     "type": "youtube",
+     "title": "youtube",
+     "description": null,
+     "url": "http://www.youtube.com/leicspolice"
+    },
+    {
+     "type": "rss",
+     "title": "rss",
+     "description": null,
+     "url": "https://www.leics.police.uk/news/leicestershire/news/GetNewsRss/"
+    },
+    {
+     "type": "telephone",
+     "title": "telephone",
+     "description": null,
+     "url": ""
+    }
+   ]
+  },
+  {
+   "id": "lincolnshire",
+   "name": "Lincolnshire Police",
+   "description": null,
+   "url": "http://lincs.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "Website",
+     "title": "Lincolnshire Police",
+     "description": null,
+     "url": "http://lincs.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "merseyside",
+   "name": "Merseyside Police",
+   "description": null,
+   "url": "https://www.merseyside.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/MerseyPol"
+    }
+   ]
+  },
+  {
+   "id": "metropolitan",
+   "name": "Metropolitan Police Service",
+   "description": null,
+   "url": "https://www.met.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/metpoliceuk/"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://x.com/Metpoliceuk"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.met.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "norfolk",
+   "name": "Norfolk Constabulary",
+   "description": null,
+   "url": "https://www.norfolk.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/NorfolkPolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "http://www.twitter.com/NorfolkPolice"
+    }
+   ]
+  },
+  {
+   "id": "north-wales",
+   "name": "North Wales Police",
+   "description": "<p>Visit the North Wales Police website for the latest information</p>",
+   "url": "https://www.northwales.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "Facebook",
+     "description": "<p>Follow us on Facebook</p>",
+     "url": "https://www.facebook.com/NorthWalesPolice"
+    }
+   ]
+  },
+  {
+   "id": "north-yorkshire",
+   "name": "North Yorkshire Police",
+   "description": null,
+   "url": "https://www.northyorkshire.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.northyorkshire.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "northamptonshire",
+   "name": "Northamptonshire Police",
+   "description": null,
+   "url": "https://www.northants.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/northantspolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://x.com/northantspolice"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.northants.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "northumbria",
+   "name": "Northumbria Police",
+   "description": null,
+   "url": "http://www.northumbria.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": null,
+     "title": "Facebook",
+     "description": "<p>Follow us on Facebook</p>",
+     "url": "http://www.facebook.com/northumbriapolice"
+    },
+    {
+     "type": null,
+     "title": "Twitter",
+     "description": "<p>Follow us on Twitter</p>",
+     "url": "http://www.twitter.com/northumbriapol"
+    },
+    {
+     "type": null,
+     "title": "YouTube",
+     "description": "<p>Follow us on YouTube</p>",
+     "url": "http://www.youtube.com/wwwnorthumbriapolice"
+    }
+   ]
+  },
+  {
+   "id": "nottinghamshire",
+   "name": "Nottinghamshire Police",
+   "description": null,
+   "url": "https://www.nottinghamshire.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "Facebook",
+     "description": "<p>Join the Nottinghamshire Police Group on Facebook</p>",
+     "url": "http://www.facebook.com/nottspolice"
+    },
+    {
+     "type": "twitter",
+     "title": "Twitter",
+     "description": "<p>Follow Nottinghamshire Police on Twitter</p>",
+     "url": "http://www.twitter.com/nottspolice"
+    },
+    {
+     "type": "youtube",
+     "title": "YouTube",
+     "description": "<p>Nottinghamshire Police's YouTube channel</p>",
+     "url": "http://www.youtube.com/user/nottinghampolice"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.nottinghamshire.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "northern-ireland",
+   "name": "Police Service of Northern Ireland",
+   "description": "<p>The Police Service of Northern Ireland’s purpose is to make Northern Ireland safer for everyone through professional, progressive policing.  We achieve this goal through policing with the community.  This  proactive, community-driven approach sees the police and local community working together to identify and solve problems.</p>",
+   "url": "http://www.psni.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": null,
+     "title": "Website",
+     "description": "<p>News and information for your local area</p>",
+     "url": "http://www.psni.police.uk"
+    },
+    {
+     "type": null,
+     "title": "facebook",
+     "description": "<p>Become friends with PSNI</p>",
+     "url": "http://www.facebook.com/PoliceServiceNI"
+    },
+    {
+     "type": null,
+     "title": "twitter",
+     "description": "<p>Follow us on Twitter</p>",
+     "url": "http://www.twitter.com/policeserviceni"
+    }
+   ]
+  },
+  {
+   "id": "south-wales",
+   "name": "South Wales Police",
+   "description": null,
+   "url": "https://www.south-wales.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/swpolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://www.x.com/swpolice"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.south-wales.police.uk"
+    }
+   ]
+  },
+  {
+   "id": "south-yorkshire",
+   "name": "South Yorkshire Police",
+   "description": "<p>Covering Barnsley, Doncaster, Rotherham and Sheffield, South Yorkshire Police is the 13th largest police force within England, Wales and Northern Ireland, covering 600 square miles.</p>\n\n<p>To report a crime please call 101 or 999 in an emergency. You can also report some non-urgent crimes online at www.reportingcrime.uk.  </p>\n\n<p>If you would like to discuss a local issue please select your Neighbourhood Team from the list below and call the team or inspector on the numbers provided. </p>\n\n<p>Whilst our officers will make every effort to answer the phone, please note that they are not office based. If no-one is available to answer your call please email or call 101.</p>",
+   "url": "http://www.southyorks.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://twitter.com/syptweet"
+    },
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "http://www.facebook.com/southyorkshirepolice"
+    },
+    {
+     "type": "flickr",
+     "title": "flickr",
+     "description": null,
+     "url": "https://www.flickr.com/photos/southyorkshirepolice/"
+    },
+    {
+     "type": "youtube",
+     "title": "youtube",
+     "description": null,
+     "url": "https://www.youtube.com/channel/UCLP-1Ieg5g42FSUXlGe4Ilg"
+    }
+   ]
+  },
+  {
+   "id": "staffordshire",
+   "name": "Staffordshire Police",
+   "description": "<p>Founded in 1842, Staffordshire Police covers an area of over 1,000 square miles. The county has a population of more than a million with a rich diversity of communities, all with specific policing needs.</p> <p>The force is divided into eleven Local Policing Teams.</p><p>Staffordshire Police's mission is to keep our communities safe and reassured.</p>",
+   "url": "http://www.staffordshire.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": null,
+     "title": "youtube",
+     "description": "<p>Watch our latest viedeos on YouTube</p>",
+     "url": "http://www.youtube.com/staffordshirepolice"
+    },
+    {
+     "type": null,
+     "title": "facebook",
+     "description": "<p>Be a fan on Facebook</p>",
+     "url": "http://www.facebook.com/staffordshirepolice"
+    },
+    {
+     "type": null,
+     "title": "twitter",
+     "description": "<p>Follow us on Twitter</p>",
+     "url": "http://www.twitter.com/staffspolice"
+    }
+   ]
+  },
+  {
+   "id": "suffolk",
+   "name": "Suffolk Constabulary",
+   "description": null,
+   "url": "https://www.suffolk.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.suffolk.police.uk/"
+    }
+   ]
+  },
+  {
+   "id": "surrey",
+   "name": "Surrey Police",
+   "description": null,
+   "url": "https://surrey.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "Facebook",
+     "title": "Facebook",
+     "description": "<p>Follow us on Facebook</p>",
+     "url": "http://www.facebook.com/SurreyPolice/"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": "<p>Follow us on Twitter</p>",
+     "url": "http://twitter.com/surreypolice/"
+    },
+    {
+     "type": "Youtube",
+     "title": "Youtube",
+     "description": "<p>View our latest videos on YouTube</p>",
+     "url": "http://www.youtube.com/surreypolice/"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": "<p>Follow us on Instagram</p>",
+     "url": "https://www.instagram.com/surreypolice/"
+    },
+    {
+     "type": "web",
+     "title": "Contact Us",
+     "description": null,
+     "url": "https://surrey.police.uk/contact-us/"
+    }
+   ]
+  },
+  {
+   "id": "sussex",
+   "name": "Sussex Police",
+   "description": null,
+   "url": "http://www.sussex.police.uk/",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "Facebook",
+     "title": "Facebook",
+     "description": "<p>Follow us on Facebook</p>",
+     "url": "https://www.facebook.com/sussexpoliceforce"
+    },
+    {
+     "type": "Twitter",
+     "title": "Twitter",
+     "description": "<p>Follow us on Twitter</p>",
+     "url": "https://twitter.com/sussex_police"
+    },
+    {
+     "type": "Youtube",
+     "title": "Youtube",
+     "description": "<p>View our latest videos on YouTube</p>",
+     "url": "https://www.youtube.com/user/sussexpoliceforce"
+    }
+   ]
+  },
+  {
+   "id": "thames-valley",
+   "name": "Thames Valley Police",
+   "description": "<p>Thames Valley Police is the largest non-metropolitan police force in England and Wales.  We police the counties of Berkshire, Buckinghamshire and Oxfordshire, and serve a diverse population of more than two million, plus six million visitors who come to Thames Valley each year. We patrol 196 miles of motorway - more than any other British police force.  The Thames Valley Police force area is divided into 12 Local Policing Areas (LPAs).  For more information, visit the Thames Valley Police website.</p>",
+   "url": "http://www.thamesvalley.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "web",
+     "title": "Thames Valley Police website",
+     "description": "<p>Working in partnership to make our community safer</p>",
+     "url": "https://www.thamesvalley.police.uk"
+    },
+    {
+     "type": "facebook",
+     "title": "Facebook",
+     "description": "<p>Find us on Facebook</p>",
+     "url": "http://www.facebook.com/thamesvp"
+    },
+    {
+     "type": "youtube",
+     "title": "Youtube",
+     "description": "<p>View our latest videos on YouTube</p>",
+     "url": "http://www.youtube.com/thamesvalleypoliceuk"
+    },
+    {
+     "type": "twitter",
+     "title": "Twitter",
+     "description": "<p>Follow us on Twitter</p>",
+     "url": "http://www.twitter.com/thamesvp"
+    },
+    {
+     "type": "e-messaging",
+     "title": "Thames Valley Alert",
+     "description": "<p>Register for Thames Valley Alert</p>",
+     "url": "https://www.thamesvalleyalert.co.uk"
+    },
+    {
+     "type": null,
+     "title": "Join us",
+     "description": "<p>Search for your new career</p>",
+     "url": "https://applyonline.thamesvalley.police.uk"
+    },
+    {
+     "type": null,
+     "title": "LinkedIn",
+     "description": "<p>Follow us on LinkedIn</p>",
+     "url": "https://www.linkedin.com/company/3842"
+    }
+   ]
+  },
+  {
+   "id": "warwickshire",
+   "name": "Warwickshire Police",
+   "description": null,
+   "url": "",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/warwickshirepolice"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://x.com/warkspolice"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": ""
+    }
+   ]
+  },
+  {
+   "id": "west-mercia",
+   "name": "West Mercia Police",
+   "description": null,
+   "url": "https://www.westmercia.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/westmerciapolice/"
+    },
+    {
+     "type": "twitter",
+     "title": "twitter",
+     "description": null,
+     "url": "https://x.com/WMerciaPolice"
+    },
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "https://www.westmercia.police.uk"
+    }
+   ]
+  },
+  {
+   "id": "west-midlands",
+   "name": "West Midlands Police",
+   "description": null,
+   "url": "http://www.west-midlands.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "web",
+     "title": "web",
+     "description": null,
+     "url": "http://www.west-midlands.police.uk/"
+    },
+    {
+     "type": "x",
+     "title": "x",
+     "description": null,
+     "url": "https://x.com/WMPolice/"
+    },
+    {
+     "type": "facebook",
+     "title": "facebook",
+     "description": null,
+     "url": "https://www.facebook.com/westmidlandspolice/"
+    },
+    {
+     "type": "flickr",
+     "title": "flickr",
+     "description": null,
+     "url": "https://www.flickr.com/photos/westmidlandspolice/"
+    },
+    {
+     "type": "youtube",
+     "title": "youtube",
+     "description": null,
+     "url": "https://www.youtube.com/westmidlandspolice"
+    }
+   ]
+  },
+  {
+   "id": "west-yorkshire",
+   "name": "West Yorkshire Police",
+   "description": "<p>West Yorkshire Police serve approximately 2.2 million people living in one of the five metropolitan districts of Bradford, Calderdale, Kirklees, Leeds and Wakefield. The physical area, of some 2000 square kilometres or 780 square miles, contains the West Yorkshire conurbation and a network of motorway and trunk roads which allow easy access to and from other population centres. The area is policed by around 5,000* Police Officers and 3,400* Support Staff, including 600* Police Community Support Officers. This makes the Force the fourth largest in the country. * numbers are approximate and may vary.</p>",
+   "url": "https://www.westyorkshire.police.uk/my-neighbourhood",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": "facebook",
+     "title": "Facebook",
+     "description": "<p>West Yorkshire Police on Facebook</p>",
+     "url": "https://www.facebook.com/westyorkshirepolice"
+    },
+    {
+     "type": "twitter",
+     "title": "X/Twitter",
+     "description": "<p>West Yorkshire Police on X/Twitter</p>",
+     "url": "https://twitter.com/WestYorksPolice"
+    },
+    {
+     "type": "youtube",
+     "title": "YouTube",
+     "description": "<p>West Yorkshire Police on YouTube</p>",
+     "url": "https://www.youtube.com/user/999tv"
+    },
+    {
+     "type": "web",
+     "title": "Instagram",
+     "description": "<p>West Yorkshire Police on Instagram</p>",
+     "url": "https://www.instagram.com/westyorkspolice/"
+    },
+    {
+     "type": "web",
+     "title": "LinkedIn",
+     "description": "<p>West Yorkshire Police on LinkedIn</p>",
+     "url": "https://www.linkedin.com/company/west-yorkshire-police"
+    },
+    {
+     "type": "web",
+     "title": "News Feed",
+     "description": "<p>Keep informed with West Yorkshire Police's RSS News Feed</p>",
+     "url": "http://feeds.feedburner.com/WestYorkshirePolice?format=xml"
+    }
+   ]
+  },
+  {
+   "id": "wiltshire",
+   "name": "Wiltshire Police",
+   "description": "<p>To prevent crime and protect the public</p>",
+   "url": "http://www.wiltshire.police.uk",
+   "telephone": "101",
+   "engagement_methods": [
+    {
+     "type": null,
+     "title": "Facebook",
+     "description": "<p>Follow us on Facebook</p>",
+     "url": "http://www.facebook.com/wiltshirepolice"
+    },
+    {
+     "type": null,
+     "title": "Twitter",
+     "description": "<p>Follow us on Twitter</p>",
+     "url": "http://twitter.com/wiltshirepolice"
+    },
+    {
+     "type": "telephone",
+     "title": "telephone",
+     "description": null,
+     "url": ""
+    }
+   ]
+  }
+ ]
+}

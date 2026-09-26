@@ -1,0 +1,8 @@
+{
+  "nodeModulesDir": "none",
+  "lock": false,
+  "tasks": {
+    "test": "deno test --allow-env . ../_shared/email/",
+    "check": "deno check index.ts handler.ts deliver.ts compose.ts repo.ts ../_shared/email/mod.ts"
+  }
+}

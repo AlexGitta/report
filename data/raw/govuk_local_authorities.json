@@ -1,0 +1,2891 @@
+{
+ "fetched_at": "2026-09-26T10:50:55.788Z",
+ "by_gss": {
+  "E06000001": {
+   "name": "Hartlepool Borough Council",
+   "homepage_url": "http://www.hartlepool.gov.uk",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "hartlepool",
+   "gss": "E06000001",
+   "snac": "00EB"
+  },
+  "E06000002": {
+   "name": "Middlesbrough Borough Council",
+   "homepage_url": "https://www.middlesbrough.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "middlesbrough",
+   "gss": "E06000002",
+   "snac": "00EC"
+  },
+  "E06000003": {
+   "name": "Redcar and Cleveland Borough Council",
+   "homepage_url": "https://www.redcar-cleveland.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "redcar-and-cleveland",
+   "gss": "E06000003",
+   "snac": "00EE"
+  },
+  "E06000004": {
+   "name": "Stockton-on-Tees Borough Council",
+   "homepage_url": "https://www.stockton.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "stockton-on-tees",
+   "gss": "E06000004",
+   "snac": "00EF"
+  },
+  "E06000005": {
+   "name": "Darlington Borough Council",
+   "homepage_url": "https://www.darlington.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "darlington",
+   "gss": "E06000005",
+   "snac": "00EH"
+  },
+  "E06000006": {
+   "name": "Halton Borough Council",
+   "homepage_url": "https://www3.halton.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "halton",
+   "gss": "E06000006",
+   "snac": "00ET"
+  },
+  "E06000007": {
+   "name": "Warrington Borough Council",
+   "homepage_url": "https://www.warrington.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "warrington",
+   "gss": "E06000007",
+   "snac": "00EU"
+  },
+  "E06000008": {
+   "name": "Blackburn with Darwen Borough Council",
+   "homepage_url": "https://www.blackburn.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "blackburn-with-darwen",
+   "gss": "E06000008",
+   "snac": "00EX"
+  },
+  "E06000009": {
+   "name": "Blackpool Borough Council",
+   "homepage_url": "https://www.blackpool.gov.uk/Home.aspx",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "blackpool",
+   "gss": "E06000009",
+   "snac": "00EY"
+  },
+  "E06000011": {
+   "name": "East Riding of Yorkshire Council",
+   "homepage_url": "http://www.eastriding.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "east-riding-of-yorkshire",
+   "gss": "E06000011",
+   "snac": "00FB"
+  },
+  "E06000012": {
+   "name": "North East Lincolnshire Council",
+   "homepage_url": "http://www.nelincs.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "north-east-lincolnshire",
+   "gss": "E06000012",
+   "snac": "00FC"
+  },
+  "E06000013": {
+   "name": "North Lincolnshire Council",
+   "homepage_url": "https://www.northlincs.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "north-lincolnshire",
+   "gss": "E06000013",
+   "snac": "00FD"
+  },
+  "E06000014": {
+   "name": "City of York Council",
+   "homepage_url": "https://www.york.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "york",
+   "gss": "E06000014",
+   "snac": "00FF"
+  },
+  "E06000015": {
+   "name": "Derby City",
+   "homepage_url": "https://www.derby.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "derby",
+   "gss": "E06000015",
+   "snac": "00FK"
+  },
+  "E06000016": {
+   "name": "Leicester City Council",
+   "homepage_url": "https://www.leicester.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "leicester",
+   "gss": "E06000016",
+   "snac": "00FN"
+  },
+  "E06000017": {
+   "name": "Rutland County Council",
+   "homepage_url": "https://www.rutland.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "rutland",
+   "gss": "E06000017",
+   "snac": "00FP"
+  },
+  "E06000018": {
+   "name": "Nottingham City Council",
+   "homepage_url": "https://www.nottinghamcity.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "nottingham",
+   "gss": "E06000018",
+   "snac": "00FY"
+  },
+  "E06000020": {
+   "name": "Telford & Wrekin Council",
+   "homepage_url": "https://www.telford.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "telford-and-wrekin",
+   "gss": "E06000020",
+   "snac": "00GF"
+  },
+  "E06000021": {
+   "name": "Stoke-on-Trent City Council",
+   "homepage_url": "https://www.stoke.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "stoke-on-trent",
+   "gss": "E06000021",
+   "snac": "00GL"
+  },
+  "E06000022": {
+   "name": "Bath and North East Somerset Council",
+   "homepage_url": "http://www.bathnes.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bath-and-north-east-somerset",
+   "gss": "E06000022",
+   "snac": "00HA"
+  },
+  "E06000024": {
+   "name": "North Somerset Council",
+   "homepage_url": "https://www.n-somerset.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "north-somerset",
+   "gss": "E06000024",
+   "snac": "00HC"
+  },
+  "E06000025": {
+   "name": "South Gloucestershire Council",
+   "homepage_url": "http://www.southglos.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "south-gloucestershire",
+   "gss": "E06000025",
+   "snac": "00HD"
+  },
+  "E06000026": {
+   "name": "Plymouth City Council",
+   "homepage_url": "https://www.plymouth.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "plymouth",
+   "gss": "E06000026",
+   "snac": "00HG"
+  },
+  "E06000027": {
+   "name": "Torbay Council",
+   "homepage_url": "http://www.torbay.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "torbay",
+   "gss": "E06000027",
+   "snac": "00HH"
+  },
+  "E06000030": {
+   "name": "Swindon Borough Council",
+   "homepage_url": "https://www.swindon.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "swindon",
+   "gss": "E06000030",
+   "snac": "00HX"
+  },
+  "E06000031": {
+   "name": "Peterborough City Council",
+   "homepage_url": "http://www.peterborough.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "peterborough",
+   "gss": "E06000031",
+   "snac": "00JA"
+  },
+  "E06000032": {
+   "name": "Luton Borough Council",
+   "homepage_url": "https://m.luton.gov.uk/Page/Show",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "luton",
+   "gss": "E06000032",
+   "snac": "00KA"
+  },
+  "E06000033": {
+   "name": "Southend-on-Sea City Council",
+   "homepage_url": "http://www.southend.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "southend-on-sea",
+   "gss": "E06000033",
+   "snac": "00KF"
+  },
+  "E06000034": {
+   "name": "Thurrock Council",
+   "homepage_url": "https://www.thurrock.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "thurrock",
+   "gss": "E06000034",
+   "snac": "00KG"
+  },
+  "E06000035": {
+   "name": "Medway Council",
+   "homepage_url": "https://www.medway.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "medway",
+   "gss": "E06000035",
+   "snac": "00LC"
+  },
+  "E06000036": {
+   "name": "Bracknell Forest Council",
+   "homepage_url": "https://www.bracknell-forest.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bracknell-forest",
+   "gss": "E06000036",
+   "snac": "00MA"
+  },
+  "E06000037": {
+   "name": "West Berkshire Council",
+   "homepage_url": "http://www.westberks.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "west-berkshire",
+   "gss": "E06000037",
+   "snac": "00MB"
+  },
+  "E06000038": {
+   "name": "Reading Borough Council",
+   "homepage_url": "https://www.reading.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "reading",
+   "gss": "E06000038",
+   "snac": "00MC"
+  },
+  "E06000039": {
+   "name": "Slough Borough Council",
+   "homepage_url": "https://www.slough.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "slough",
+   "gss": "E06000039",
+   "snac": "00MD"
+  },
+  "E06000040": {
+   "name": "Royal Borough of Windsor and Maidenhead",
+   "homepage_url": "http://www.rbwm.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "windsor-and-maidenhead",
+   "gss": "E06000040",
+   "snac": "00ME"
+  },
+  "E06000041": {
+   "name": "Wokingham Borough Council",
+   "homepage_url": "https://www.wokingham.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "wokingham",
+   "gss": "E06000041",
+   "snac": "00MF"
+  },
+  "E06000042": {
+   "name": "Milton Keynes City Council",
+   "homepage_url": "https://www.milton-keynes.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "milton-keynes",
+   "gss": "E06000042",
+   "snac": "00MG"
+  },
+  "E06000043": {
+   "name": "Brighton and Hove City Council",
+   "homepage_url": "https://www.brighton-hove.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "brighton-and-hove",
+   "gss": "E06000043",
+   "snac": "00ML"
+  },
+  "E06000044": {
+   "name": "Portsmouth City Council",
+   "homepage_url": "https://www.portsmouth.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "portsmouth",
+   "gss": "E06000044",
+   "snac": "00MR"
+  },
+  "E06000045": {
+   "name": "Southampton City Council",
+   "homepage_url": "http://www.southampton.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "southampton",
+   "gss": "E06000045",
+   "snac": "00MS"
+  },
+  "E06000046": {
+   "name": "Isle of Wight Council",
+   "homepage_url": "https://www.iow.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "isle-of-wight",
+   "gss": "E06000046",
+   "snac": "00MW"
+  },
+  "E06000047": {
+   "name": "Durham County Council",
+   "homepage_url": "http://www.durham.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "county-durham",
+   "gss": "E06000047",
+   "snac": "00EJ"
+  },
+  "E06000049": {
+   "name": "Cheshire East Council",
+   "homepage_url": "https://www.cheshireeast.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "cheshire-east",
+   "gss": "E06000049",
+   "snac": "00EQ"
+  },
+  "E06000050": {
+   "name": "Cheshire West and Chester Council",
+   "homepage_url": "https://www.cheshirewestandchester.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "cheshire-west-and-chester",
+   "gss": "E06000050",
+   "snac": "00EW"
+  },
+  "E06000051": {
+   "name": "Shropshire Council",
+   "homepage_url": "https://next.shropshire.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "shropshire",
+   "gss": "E06000051",
+   "snac": "00GG"
+  },
+  "E06000052": {
+   "name": "Cornwall Council",
+   "homepage_url": "https://www.cornwall.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "cornwall",
+   "gss": "E06000052",
+   "snac": "00HE"
+  },
+  "E06000053": {
+   "name": "Council of the Isles of Scilly",
+   "homepage_url": "http://www.scilly.gov.uk",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "isles-of-scilly",
+   "gss": "E06000053",
+   "snac": "00HF"
+  },
+  "E06000054": {
+   "name": "Wiltshire Council",
+   "homepage_url": "https://www.wiltshire.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "wiltshire",
+   "gss": "E06000054",
+   "snac": "00HY"
+  },
+  "E06000055": {
+   "name": "Bedford Borough Council",
+   "homepage_url": "https://www.bedford.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bedford",
+   "gss": "E06000055",
+   "snac": "00KB"
+  },
+  "E06000056": {
+   "name": "Central Bedfordshire Council",
+   "homepage_url": "http://www.centralbedfordshire.gov.uk",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "central-bedfordshire",
+   "gss": "E06000056",
+   "snac": "00KC"
+  },
+  "E06000057": {
+   "name": "Northumberland County Council",
+   "homepage_url": "https://www.northumberland.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "northumberland",
+   "gss": "E06000057",
+   "snac": "00EM"
+  },
+  "E06000059": {
+   "name": "Dorset Council",
+   "homepage_url": "https://www.dorsetcouncil.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "dorset",
+   "gss": "E06000059"
+  },
+  "E06000060": {
+   "name": "Buckinghamshire Council",
+   "homepage_url": "https://www.buckinghamshire.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "buckinghamshire",
+   "gss": "E06000060",
+   "snac": "E06000060"
+  },
+  "E06000061": {
+   "name": "North Northamptonshire Council",
+   "homepage_url": "https://www.northnorthants.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "north-northamptonshire",
+   "gss": "E06000061",
+   "snac": "E06000061"
+  },
+  "E06000062": {
+   "name": "West Northamptonshire Council",
+   "homepage_url": "https://www.westnorthants.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "west-northamptonshire",
+   "gss": "E06000062",
+   "snac": "E06000062"
+  },
+  "E06000063": {
+   "name": "Cumberland Council",
+   "homepage_url": "https://www.cumberland.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "cumberland",
+   "gss": "E06000063"
+  },
+  "E06000064": {
+   "name": "Westmorland and Furness Council",
+   "homepage_url": "https://www.westmorlandandfurness.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "westmorland-and-furness",
+   "gss": "E06000064"
+  },
+  "E10000023": {
+   "name": "North Yorkshire Council",
+   "homepage_url": "http://www.northyorks.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "north-yorkshire",
+   "gss": "E10000023",
+   "snac": "36"
+  },
+  "E10000027": {
+   "name": "Somerset Council",
+   "homepage_url": "http://www.somerset.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "somerset",
+   "gss": "E10000027",
+   "snac": "40"
+  },
+  "E07000008": {
+   "name": "Cambridge City Council",
+   "homepage_url": "https://www.cambridge.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "cambridge",
+   "gss": "E07000008",
+   "snac": "12UB"
+  },
+  "E10000003": {
+   "name": "Cambridgeshire County Council",
+   "homepage_url": "https://www.cambridgeshire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "cambridgeshire",
+   "gss": "E10000003",
+   "snac": "12"
+  },
+  "E07000009": {
+   "name": "East Cambridgeshire District Council",
+   "homepage_url": "http://www.eastcambs.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "east-cambridgeshire",
+   "gss": "E07000009",
+   "snac": "12UC"
+  },
+  "E07000010": {
+   "name": "Fenland District Council",
+   "homepage_url": "http://www.fenland.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "fenland",
+   "gss": "E07000010",
+   "snac": "12UD"
+  },
+  "E07000011": {
+   "name": "Huntingdonshire District Council",
+   "homepage_url": "https://www.huntingdonshire.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "huntingdonshire",
+   "gss": "E07000011",
+   "snac": "12UE"
+  },
+  "E07000012": {
+   "name": "South Cambridgeshire District Council",
+   "homepage_url": "http://www.scambs.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "south-cambridgeshire",
+   "gss": "E07000012",
+   "snac": "12UG"
+  },
+  "E07000032": {
+   "name": "Amber Valley Borough Council",
+   "homepage_url": "http://www.ambervalley.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "amber-valley",
+   "gss": "E07000032",
+   "snac": "17UB"
+  },
+  "E10000007": {
+   "name": "Derbyshire County Council",
+   "homepage_url": "https://www.derbyshire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "derbyshire",
+   "gss": "E10000007",
+   "snac": "17"
+  },
+  "E07000033": {
+   "name": "Bolsover District Council",
+   "homepage_url": "https://www.bolsover.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "bolsover",
+   "gss": "E07000033",
+   "snac": "17UC"
+  },
+  "E07000034": {
+   "name": "Chesterfield Borough Council",
+   "homepage_url": "https://www.chesterfield.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "chesterfield",
+   "gss": "E07000034",
+   "snac": "17UD"
+  },
+  "E07000035": {
+   "name": "Derbyshire Dales District Council",
+   "homepage_url": "https://www.derbyshiredales.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "derbyshire-dales",
+   "gss": "E07000035",
+   "snac": "17UF"
+  },
+  "E07000036": {
+   "name": "Erewash Borough Council",
+   "homepage_url": "https://www.erewash.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "erewash",
+   "gss": "E07000036",
+   "snac": "17UG"
+  },
+  "E07000037": {
+   "name": "High Peak Borough Council",
+   "homepage_url": "https://www.highpeak.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "high-peak",
+   "gss": "E07000037",
+   "snac": "17UH"
+  },
+  "E07000038": {
+   "name": "North East Derbyshire District Council",
+   "homepage_url": "https://www.ne-derbyshire.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "north-east-derbyshire",
+   "gss": "E07000038",
+   "snac": "17UJ"
+  },
+  "E07000039": {
+   "name": "South Derbyshire District Council",
+   "homepage_url": "https://www.southderbyshire.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "south-derbyshire",
+   "gss": "E07000039",
+   "snac": "17UK"
+  },
+  "E07000040": {
+   "name": "East Devon District Council",
+   "homepage_url": "http://eastdevon.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "east-devon",
+   "gss": "E07000040",
+   "snac": "18UB"
+  },
+  "E10000008": {
+   "name": "Devon County Council",
+   "homepage_url": "https://new.devon.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "devon",
+   "gss": "E10000008",
+   "snac": "18"
+  },
+  "E07000041": {
+   "name": "Exeter City Council",
+   "homepage_url": "https://exeter.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "exeter",
+   "gss": "E07000041",
+   "snac": "18UC"
+  },
+  "E07000042": {
+   "name": "Mid Devon District Council",
+   "homepage_url": "https://www.middevon.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "mid-devon",
+   "gss": "E07000042",
+   "snac": "18UD"
+  },
+  "E07000043": {
+   "name": "North Devon Council",
+   "homepage_url": "http://www.northdevon.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "north-devon",
+   "gss": "E07000043",
+   "snac": "18UE"
+  },
+  "E07000044": {
+   "name": "South Hams District Council",
+   "homepage_url": "https://www.southhams.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "south-hams",
+   "gss": "E07000044",
+   "snac": "18UG"
+  },
+  "E07000045": {
+   "name": "Teignbridge District Council",
+   "homepage_url": "http://www.teignbridge.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "teignbridge",
+   "gss": "E07000045",
+   "snac": "18UH"
+  },
+  "E07000046": {
+   "name": "Torridge District Council",
+   "homepage_url": "https://www.torridge.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "torridge",
+   "gss": "E07000046",
+   "snac": "18UK"
+  },
+  "E07000047": {
+   "name": "West Devon Borough Council",
+   "homepage_url": "http://www.westdevon.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "west-devon",
+   "gss": "E07000047",
+   "snac": "18UL"
+  },
+  "E07000061": {
+   "name": "Eastbourne Borough Council",
+   "homepage_url": "https://www.lewes-eastbourne.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "eastbourne",
+   "gss": "E07000061",
+   "snac": "21UC"
+  },
+  "E10000011": {
+   "name": "East Sussex County Council",
+   "homepage_url": "https://www.eastsussex.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "east-sussex",
+   "gss": "E10000011",
+   "snac": "21"
+  },
+  "E07000062": {
+   "name": "Hastings Borough Council",
+   "homepage_url": "https://www.hastings.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "hastings",
+   "gss": "E07000062",
+   "snac": "21UD"
+  },
+  "E07000063": {
+   "name": "Lewes District Council",
+   "homepage_url": "https://www.lewes-eastbourne.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "lewes",
+   "gss": "E07000063",
+   "snac": "21UF"
+  },
+  "E07000064": {
+   "name": "Rother District Council",
+   "homepage_url": "http://www.rother.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "rother",
+   "gss": "E07000064",
+   "snac": "21UG"
+  },
+  "E07000065": {
+   "name": "Wealden District Council",
+   "homepage_url": "https://www.wealden.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "wealden",
+   "gss": "E07000065",
+   "snac": "21UH"
+  },
+  "E07000066": {
+   "name": "Basildon Borough Council",
+   "homepage_url": "https://www.basildon.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "basildon",
+   "gss": "E07000066",
+   "snac": "22UB"
+  },
+  "E10000012": {
+   "name": "Essex County Council",
+   "homepage_url": "https://www.essex.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "essex",
+   "gss": "E10000012",
+   "snac": "22"
+  },
+  "E07000067": {
+   "name": "Braintree District Council",
+   "homepage_url": "http://www.braintree.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "braintree",
+   "gss": "E07000067",
+   "snac": "22UC"
+  },
+  "E07000068": {
+   "name": "Brentwood Borough Council",
+   "homepage_url": "http://www.brentwood.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "brentwood",
+   "gss": "E07000068",
+   "snac": "22UD"
+  },
+  "E07000069": {
+   "name": "Castle Point Borough Council",
+   "homepage_url": "https://www.castlepoint.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "castle-point",
+   "gss": "E07000069",
+   "snac": "22UE"
+  },
+  "E07000070": {
+   "name": "Chelmsford City Council",
+   "homepage_url": "https://www.chelmsford.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "chelmsford",
+   "gss": "E07000070",
+   "snac": "22UF"
+  },
+  "E07000071": {
+   "name": "Colchester City Council",
+   "homepage_url": "http://www.colchester.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "colchester",
+   "gss": "E07000071",
+   "snac": "22UG"
+  },
+  "E07000072": {
+   "name": "Epping Forest District Council",
+   "homepage_url": "https://www.eppingforestdc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "epping-forest",
+   "gss": "E07000072",
+   "snac": "22UH"
+  },
+  "E07000073": {
+   "name": "Harlow Council",
+   "homepage_url": "http://www.harlow.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "harlow",
+   "gss": "E07000073",
+   "snac": "22UJ"
+  },
+  "E07000074": {
+   "name": "Maldon District Council",
+   "homepage_url": "https://www.maldon.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "maldon",
+   "gss": "E07000074",
+   "snac": "22UK"
+  },
+  "E07000075": {
+   "name": "Rochford District Council",
+   "homepage_url": "https://www.rochford.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "rochford",
+   "gss": "E07000075",
+   "snac": "22UL"
+  },
+  "E07000076": {
+   "name": "Tendring District Council",
+   "homepage_url": "http://www.tendringdc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "tendring",
+   "gss": "E07000076",
+   "snac": "22UN"
+  },
+  "E07000077": {
+   "name": "Uttlesford District Council",
+   "homepage_url": "https://www.uttlesford.gov.uk/home",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "uttlesford",
+   "gss": "E07000077",
+   "snac": "22UQ"
+  },
+  "E07000078": {
+   "name": "Cheltenham Borough Council",
+   "homepage_url": "https://www.cheltenham.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "cheltenham",
+   "gss": "E07000078",
+   "snac": "23UB"
+  },
+  "E10000013": {
+   "name": "Gloucestershire County Council",
+   "homepage_url": "https://www.gloucestershire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "gloucestershire",
+   "gss": "E10000013",
+   "snac": "23"
+  },
+  "E07000079": {
+   "name": "Cotswold District Council",
+   "homepage_url": "https://www.cotswold.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "cotswold",
+   "gss": "E07000079",
+   "snac": "23UC"
+  },
+  "E07000080": {
+   "name": "Forest of Dean District Council",
+   "homepage_url": "https://www.fdean.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "forest-of-dean",
+   "gss": "E07000080",
+   "snac": "23UD"
+  },
+  "E07000081": {
+   "name": "Gloucester City Council",
+   "homepage_url": "http://www.gloucester.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "gloucester",
+   "gss": "E07000081",
+   "snac": "23UE"
+  },
+  "E07000082": {
+   "name": "Stroud District Council",
+   "homepage_url": "http://www.stroud.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "stroud",
+   "gss": "E07000082",
+   "snac": "23UF"
+  },
+  "E07000083": {
+   "name": "Tewkesbury Borough Council",
+   "homepage_url": "https://tewkesbury.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "tewkesbury",
+   "gss": "E07000083",
+   "snac": "23UG"
+  },
+  "E07000084": {
+   "name": "Basingstoke and Deane Borough Council",
+   "homepage_url": "https://www.basingstoke.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "basingstoke-and-deane",
+   "gss": "E07000084",
+   "snac": "24UB"
+  },
+  "E10000014": {
+   "name": "Hampshire County Council",
+   "homepage_url": "https://www.hants.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "hampshire",
+   "gss": "E10000014",
+   "snac": "24"
+  },
+  "E07000085": {
+   "name": "East Hampshire District Council",
+   "homepage_url": "http://www.easthants.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "east-hampshire",
+   "gss": "E07000085",
+   "snac": "24UC"
+  },
+  "E07000086": {
+   "name": "Eastleigh Borough Council",
+   "homepage_url": "http://www.eastleigh.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "eastleigh",
+   "gss": "E07000086",
+   "snac": "24UD"
+  },
+  "E07000087": {
+   "name": "Fareham Borough Council",
+   "homepage_url": "https://www.fareham.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "fareham",
+   "gss": "E07000087",
+   "snac": "24UE"
+  },
+  "E07000088": {
+   "name": "Gosport Borough Council",
+   "homepage_url": "https://www.gosport.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "gosport",
+   "gss": "E07000088",
+   "snac": "24UF"
+  },
+  "E07000089": {
+   "name": "Hart District Council",
+   "homepage_url": "https://www.hart.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "hart",
+   "gss": "E07000089",
+   "snac": "24UG"
+  },
+  "E07000090": {
+   "name": "Havant Borough Council",
+   "homepage_url": "http://www.havant.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "havant",
+   "gss": "E07000090",
+   "snac": "24UH"
+  },
+  "E07000091": {
+   "name": "New Forest District Council",
+   "homepage_url": "https://www.newforest.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "new-forest",
+   "gss": "E07000091",
+   "snac": "24UJ"
+  },
+  "E07000092": {
+   "name": "Rushmoor Borough Council",
+   "homepage_url": "http://www.rushmoor.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "rushmoor",
+   "gss": "E07000092",
+   "snac": "24UL"
+  },
+  "E07000093": {
+   "name": "Test Valley Borough Council",
+   "homepage_url": "https://www.testvalley.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "test-valley",
+   "gss": "E07000093",
+   "snac": "24UN"
+  },
+  "E07000094": {
+   "name": "Winchester City Council",
+   "homepage_url": "https://www.winchester.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "winchester",
+   "gss": "E07000094",
+   "snac": "24UP"
+  },
+  "E07000095": {
+   "name": "Borough of Broxbourne",
+   "homepage_url": "https://www.broxbourne.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "broxbourne",
+   "gss": "E07000095",
+   "snac": "26UB"
+  },
+  "E10000015": {
+   "name": "Hertfordshire County Council",
+   "homepage_url": "https://www.hertfordshire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "hertfordshire",
+   "gss": "E10000015",
+   "snac": "26"
+  },
+  "E07000096": {
+   "name": "Dacorum Borough Council",
+   "homepage_url": "http://www.dacorum.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "dacorum",
+   "gss": "E07000096",
+   "snac": "26UC"
+  },
+  "E07000098": {
+   "name": "Hertsmere Borough Council",
+   "homepage_url": "https://www.hertsmere.gov.uk/home.aspx",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "hertsmere",
+   "gss": "E07000098",
+   "snac": "26UE"
+  },
+  "E07000099": {
+   "name": "North Hertfordshire District Council",
+   "homepage_url": "http://www.north-herts.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "north-hertfordshire",
+   "gss": "E07000099",
+   "snac": "26UF"
+  },
+  "E07000102": {
+   "name": "Three Rivers District Council",
+   "homepage_url": "http://www.threerivers.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "three-rivers",
+   "gss": "E07000102",
+   "snac": "26UJ"
+  },
+  "E07000103": {
+   "name": "Watford Borough Council",
+   "homepage_url": "https://www.watford.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "watford",
+   "gss": "E07000103",
+   "snac": "26UK"
+  },
+  "E07000105": {
+   "name": "Ashford Borough Council",
+   "homepage_url": "https://www.ashford.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "ashford",
+   "gss": "E07000105",
+   "snac": "29UB"
+  },
+  "E10000016": {
+   "name": "Kent County Council",
+   "homepage_url": "http://www.kent.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "kent",
+   "gss": "E10000016",
+   "snac": "29"
+  },
+  "E07000106": {
+   "name": "Canterbury City Council",
+   "homepage_url": "https://www.canterbury.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "canterbury",
+   "gss": "E07000106",
+   "snac": "29UC"
+  },
+  "E07000107": {
+   "name": "Dartford Borough Council",
+   "homepage_url": "http://www.dartford.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "dartford",
+   "gss": "E07000107",
+   "snac": "29UD"
+  },
+  "E07000108": {
+   "name": "Dover District Council",
+   "homepage_url": "https://www.dover.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "dover",
+   "gss": "E07000108",
+   "snac": "29UE"
+  },
+  "E07000109": {
+   "name": "Gravesham Borough Council",
+   "homepage_url": "http://www.gravesham.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "gravesham",
+   "gss": "E07000109",
+   "snac": "29UG"
+  },
+  "E07000110": {
+   "name": "Maidstone Borough Council",
+   "homepage_url": "https://maidstone.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "maidstone",
+   "gss": "E07000110",
+   "snac": "29UH"
+  },
+  "E07000111": {
+   "name": "Sevenoaks District Council",
+   "homepage_url": "http://www.sevenoaks.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "sevenoaks",
+   "gss": "E07000111",
+   "snac": "29UK"
+  },
+  "E07000113": {
+   "name": "Swale Borough Council",
+   "homepage_url": "https://www.swale.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "swale",
+   "gss": "E07000113",
+   "snac": "29UM"
+  },
+  "E07000114": {
+   "name": "Thanet District Council",
+   "homepage_url": "https://www.thanet.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "thanet",
+   "gss": "E07000114",
+   "snac": "29UN"
+  },
+  "E07000115": {
+   "name": "Tonbridge and Malling Borough Council",
+   "homepage_url": "https://www.tmbc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "tonbridge-and-malling",
+   "gss": "E07000115",
+   "snac": "29UP"
+  },
+  "E07000116": {
+   "name": "Tunbridge Wells Borough Council",
+   "homepage_url": "https://www.tunbridgewells.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "tunbridge-wells",
+   "gss": "E07000116",
+   "snac": "29UQ"
+  },
+  "E07000117": {
+   "name": "Burnley Borough Council",
+   "homepage_url": "https://burnley.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "burnley",
+   "gss": "E07000117",
+   "snac": "30UD"
+  },
+  "E10000017": {
+   "name": "Lancashire County Council",
+   "homepage_url": "https://www.lancashire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "lancashire",
+   "gss": "E10000017",
+   "snac": "30"
+  },
+  "E07000118": {
+   "name": "Chorley Council",
+   "homepage_url": "https://chorley.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "chorley",
+   "gss": "E07000118",
+   "snac": "30UE"
+  },
+  "E07000119": {
+   "name": "Fylde Borough Council",
+   "homepage_url": "https://www.fylde.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "fylde",
+   "gss": "E07000119",
+   "snac": "30UF"
+  },
+  "E07000120": {
+   "name": "Hyndburn Borough Council",
+   "homepage_url": "https://www.hyndburnbc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "hyndburn",
+   "gss": "E07000120",
+   "snac": "30UG"
+  },
+  "E07000121": {
+   "name": "Lancaster City Council",
+   "homepage_url": "https://www.lancaster.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "lancaster",
+   "gss": "E07000121",
+   "snac": "30UH"
+  },
+  "E07000122": {
+   "name": "Pendle Borough Council",
+   "homepage_url": "https://www.pendle.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "pendle",
+   "gss": "E07000122",
+   "snac": "30UJ"
+  },
+  "E07000123": {
+   "name": "Preston City Council",
+   "homepage_url": "https://www.preston.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "preston",
+   "gss": "E07000123",
+   "snac": "30UK"
+  },
+  "E07000124": {
+   "name": "Ribble Valley Borough Council",
+   "homepage_url": "https://www.ribblevalley.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "ribble-valley",
+   "gss": "E07000124",
+   "snac": "30UL"
+  },
+  "E07000125": {
+   "name": "Rossendale Borough Council",
+   "homepage_url": "https://www.rossendale.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "rossendale",
+   "gss": "E07000125",
+   "snac": "30UM"
+  },
+  "E07000126": {
+   "name": "South Ribble Borough Council",
+   "homepage_url": "http://www.southribble.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "south-ribble",
+   "gss": "E07000126",
+   "snac": "30UN"
+  },
+  "E07000127": {
+   "name": "West Lancashire Borough Council",
+   "homepage_url": "http://www.westlancs.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "west-lancashire",
+   "gss": "E07000127",
+   "snac": "30UP"
+  },
+  "E07000128": {
+   "name": "Wyre Council",
+   "homepage_url": "http://www.wyre.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "wyre",
+   "gss": "E07000128",
+   "snac": "30UQ"
+  },
+  "E07000129": {
+   "name": "Blaby District Council",
+   "homepage_url": "https://www.blaby.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "blaby",
+   "gss": "E07000129",
+   "snac": "31UB"
+  },
+  "E10000018": {
+   "name": "Leicestershire County Council",
+   "homepage_url": "https://www.leicestershire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "leicestershire",
+   "gss": "E10000018",
+   "snac": "31"
+  },
+  "E07000130": {
+   "name": "Charnwood Borough Council",
+   "homepage_url": "http://www.charnwood.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "charnwood",
+   "gss": "E07000130",
+   "snac": "31UC"
+  },
+  "E07000131": {
+   "name": "Harborough District Council",
+   "homepage_url": "http://www.harborough.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "harborough",
+   "gss": "E07000131",
+   "snac": "31UD"
+  },
+  "E07000132": {
+   "name": "Hinckley and Bosworth Borough Council",
+   "homepage_url": "https://www.hinckley-bosworth.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "hinckley-and-bosworth",
+   "gss": "E07000132",
+   "snac": "31UE"
+  },
+  "E07000133": {
+   "name": "Melton Borough Council",
+   "homepage_url": "http://www.melton.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "melton",
+   "gss": "E07000133",
+   "snac": "31UG"
+  },
+  "E07000134": {
+   "name": "North West Leicestershire District Council",
+   "homepage_url": "http://www.nwleics.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "north-west-leicestershire",
+   "gss": "E07000134",
+   "snac": "31UH"
+  },
+  "E07000135": {
+   "name": "Oadby and Wigston Borough Council",
+   "homepage_url": "https://www.oadby-wigston.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "oadby-and-wigston",
+   "gss": "E07000135",
+   "snac": "31UJ"
+  },
+  "E07000136": {
+   "name": "Boston Borough Council",
+   "homepage_url": "https://www.boston.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "boston",
+   "gss": "E07000136",
+   "snac": "32UB"
+  },
+  "E10000019": {
+   "name": "Lincolnshire County Council",
+   "homepage_url": "https://www.lincolnshire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "lincolnshire",
+   "gss": "E10000019",
+   "snac": "32"
+  },
+  "E07000137": {
+   "name": "East Lindsey District Council",
+   "homepage_url": "https://www.e-lindsey.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "east-lindsey",
+   "gss": "E07000137",
+   "snac": "32UC"
+  },
+  "E07000138": {
+   "name": "City of Lincoln Council",
+   "homepage_url": "http://www.lincoln.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "lincoln",
+   "gss": "E07000138",
+   "snac": "32UD"
+  },
+  "E07000139": {
+   "name": "North Kesteven District Council",
+   "homepage_url": "https://www.n-kesteven.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "north-kesteven",
+   "gss": "E07000139",
+   "snac": "32UE"
+  },
+  "E07000140": {
+   "name": "South Holland District Council",
+   "homepage_url": "https://www.sholland.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "south-holland",
+   "gss": "E07000140",
+   "snac": "32UF"
+  },
+  "E07000141": {
+   "name": "South Kesteven District Council",
+   "homepage_url": "http://www.southkesteven.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "south-kesteven",
+   "gss": "E07000141",
+   "snac": "32UG"
+  },
+  "E07000142": {
+   "name": "West Lindsey District Council",
+   "homepage_url": "https://www.west-lindsey.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "west-lindsey",
+   "gss": "E07000142",
+   "snac": "32UH"
+  },
+  "E07000143": {
+   "name": "Breckland Council",
+   "homepage_url": "http://www.breckland.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "breckland",
+   "gss": "E07000143",
+   "snac": "33UB"
+  },
+  "E10000020": {
+   "name": "Norfolk County Council",
+   "homepage_url": "http://www.norfolk.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "norfolk",
+   "gss": "E10000020",
+   "snac": "33"
+  },
+  "E07000144": {
+   "name": "Broadland District Council",
+   "homepage_url": "https://www.southnorfolkandbroadland.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "broadland",
+   "gss": "E07000144",
+   "snac": "33UC"
+  },
+  "E07000145": {
+   "name": "Great Yarmouth Borough Council",
+   "homepage_url": "https://www.great-yarmouth.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "great-yarmouth",
+   "gss": "E07000145",
+   "snac": "33UD"
+  },
+  "E07000146": {
+   "name": "Borough Council of Kings Lynn and West Norfolk",
+   "homepage_url": "http://www.west-norfolk.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "kings-lynn-and-west-norfolk",
+   "gss": "E07000146",
+   "snac": "33UE"
+  },
+  "E07000147": {
+   "name": "North Norfolk District Council",
+   "homepage_url": "https://www.north-norfolk.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "north-norfolk",
+   "gss": "E07000147",
+   "snac": "33UF"
+  },
+  "E07000148": {
+   "name": "Norwich City Council",
+   "homepage_url": "https://www.norwich.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "norwich",
+   "gss": "E07000148",
+   "snac": "33UG"
+  },
+  "E07000149": {
+   "name": "South Norfolk District Council",
+   "homepage_url": "https://www.southnorfolkandbroadland.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "south-norfolk",
+   "gss": "E07000149",
+   "snac": "33UH"
+  },
+  "E07000170": {
+   "name": "Ashfield District Council",
+   "homepage_url": "https://www.ashfield.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "ashfield",
+   "gss": "E07000170",
+   "snac": "37UB"
+  },
+  "E10000024": {
+   "name": "Nottinghamshire County Council",
+   "homepage_url": "http://www.nottinghamshire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "nottinghamshire",
+   "gss": "E10000024",
+   "snac": "37"
+  },
+  "E07000171": {
+   "name": "Bassetlaw District Council",
+   "homepage_url": "https://www.bassetlaw.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "bassetlaw",
+   "gss": "E07000171",
+   "snac": "37UC"
+  },
+  "E07000172": {
+   "name": "Broxtowe Borough Council",
+   "homepage_url": "https://www.broxtowe.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "broxtowe",
+   "gss": "E07000172",
+   "snac": "37UD"
+  },
+  "E07000173": {
+   "name": "Gedling Borough Council",
+   "homepage_url": "https://www.gedling.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "gedling",
+   "gss": "E07000173",
+   "snac": "37UE"
+  },
+  "E07000174": {
+   "name": "Mansfield District Council",
+   "homepage_url": "https://www.mansfield.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "mansfield",
+   "gss": "E07000174",
+   "snac": "37UF"
+  },
+  "E07000175": {
+   "name": "Newark and Sherwood District Council",
+   "homepage_url": "https://www.newark-sherwooddc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "newark-and-sherwood",
+   "gss": "E07000175",
+   "snac": "37UG"
+  },
+  "E07000176": {
+   "name": "Rushcliffe Borough Council",
+   "homepage_url": "https://www.rushcliffe.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "rushcliffe",
+   "gss": "E07000176",
+   "snac": "37UJ"
+  },
+  "E07000177": {
+   "name": "Cherwell District Council",
+   "homepage_url": "https://www.cherwell.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "cherwell",
+   "gss": "E07000177",
+   "snac": "38UB"
+  },
+  "E10000025": {
+   "name": "Oxfordshire County Council",
+   "homepage_url": "https://www.oxfordshire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "oxfordshire",
+   "gss": "E10000025",
+   "snac": "38"
+  },
+  "E07000178": {
+   "name": "Oxford City Council",
+   "homepage_url": "https://www.oxford.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "oxford",
+   "gss": "E07000178",
+   "snac": "38UC"
+  },
+  "E07000179": {
+   "name": "South Oxfordshire District Council",
+   "homepage_url": "http://www.southoxon.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "south-oxfordshire",
+   "gss": "E07000179",
+   "snac": "38UD"
+  },
+  "E07000180": {
+   "name": "Vale of White Horse District Council",
+   "homepage_url": "http://www.whitehorsedc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "vale-of-white-horse",
+   "gss": "E07000180",
+   "snac": "38UE"
+  },
+  "E07000181": {
+   "name": "West Oxfordshire District Council",
+   "homepage_url": "https://www.westoxon.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "west-oxfordshire",
+   "gss": "E07000181",
+   "snac": "38UF"
+  },
+  "E07000192": {
+   "name": "Cannock Chase District Council",
+   "homepage_url": "http://www.cannockchasedc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "cannock-chase",
+   "gss": "E07000192",
+   "snac": "41UB"
+  },
+  "E10000028": {
+   "name": "Staffordshire County Council",
+   "homepage_url": "https://www.staffordshire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "staffordshire",
+   "gss": "E10000028",
+   "snac": "41"
+  },
+  "E07000193": {
+   "name": "East Staffordshire Borough Council",
+   "homepage_url": "https://www.eaststaffsbc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "east-staffordshire",
+   "gss": "E07000193",
+   "snac": "41UC"
+  },
+  "E07000194": {
+   "name": "Lichfield District Council",
+   "homepage_url": "https://www.lichfielddc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "lichfield",
+   "gss": "E07000194",
+   "snac": "41UD"
+  },
+  "E07000195": {
+   "name": "Newcastle-under-Lyme District Council",
+   "homepage_url": "https://www.newcastle-staffs.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "newcastle-under-lyme",
+   "gss": "E07000195",
+   "snac": "41UE"
+  },
+  "E07000196": {
+   "name": "South Staffordshire Council",
+   "homepage_url": "https://www.sstaffs.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "south-staffordshire",
+   "gss": "E07000196",
+   "snac": "41UF"
+  },
+  "E07000197": {
+   "name": "Stafford Borough Council",
+   "homepage_url": "https://www.staffordbc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "stafford",
+   "gss": "E07000197",
+   "snac": "41UG"
+  },
+  "E07000198": {
+   "name": "Staffordshire Moorlands District Council",
+   "homepage_url": "https://www.staffsmoorlands.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "staffordshire-moorlands",
+   "gss": "E07000198",
+   "snac": "41UH"
+  },
+  "E07000199": {
+   "name": "Tamworth Borough Council",
+   "homepage_url": "https://www.tamworth.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "tamworth",
+   "gss": "E07000199",
+   "snac": "41UK"
+  },
+  "E07000200": {
+   "name": "Babergh District Council",
+   "homepage_url": "https://www.babergh.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "babergh",
+   "gss": "E07000200",
+   "snac": "42UB"
+  },
+  "E10000029": {
+   "name": "Suffolk County Council",
+   "homepage_url": "http://www.suffolk.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "suffolk",
+   "gss": "E10000029",
+   "snac": "42"
+  },
+  "E07000202": {
+   "name": "Ipswich Borough Council",
+   "homepage_url": "https://www.ipswich.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "ipswich",
+   "gss": "E07000202",
+   "snac": "42UD"
+  },
+  "E07000203": {
+   "name": "Mid Suffolk District Council",
+   "homepage_url": "https://www.midsuffolk.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "mid-suffolk",
+   "gss": "E07000203",
+   "snac": "42UE"
+  },
+  "E07000207": {
+   "name": "Elmbridge Borough Council",
+   "homepage_url": "http://www.elmbridge.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "elmbridge",
+   "gss": "E07000207",
+   "snac": "43UB"
+  },
+  "E10000030": {
+   "name": "Surrey County Council",
+   "homepage_url": "http://www.surreycc.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "surrey",
+   "gss": "E10000030",
+   "snac": "43"
+  },
+  "E07000208": {
+   "name": "Epsom and Ewell Borough Council",
+   "homepage_url": "http://www.epsom-ewell.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "epsom-and-ewell",
+   "gss": "E07000208",
+   "snac": "43UC"
+  },
+  "E07000209": {
+   "name": "Guildford Borough Council",
+   "homepage_url": "https://www.guildford.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "guildford",
+   "gss": "E07000209",
+   "snac": "43UD"
+  },
+  "E07000210": {
+   "name": "Mole Valley District Council",
+   "homepage_url": "https://www.molevalley.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "mole-valley",
+   "gss": "E07000210",
+   "snac": "43UE"
+  },
+  "E07000211": {
+   "name": "Reigate and Banstead Borough Council",
+   "homepage_url": "https://www.reigate-banstead.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "reigate-and-banstead",
+   "gss": "E07000211",
+   "snac": "43UF"
+  },
+  "E07000212": {
+   "name": "Runnymede Borough Council",
+   "homepage_url": "https://www.runnymede.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "runnymede",
+   "gss": "E07000212",
+   "snac": "43UG"
+  },
+  "E07000213": {
+   "name": "Spelthorne Borough Council",
+   "homepage_url": "http://www.spelthorne.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "spelthorne",
+   "gss": "E07000213",
+   "snac": "43UH"
+  },
+  "E07000214": {
+   "name": "Surrey Heath Borough Council",
+   "homepage_url": "https://www.surreyheath.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "surrey-heath",
+   "gss": "E07000214",
+   "snac": "43UJ"
+  },
+  "E07000215": {
+   "name": "Tandridge District Council",
+   "homepage_url": "https://www.tandridge.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "tandridge",
+   "gss": "E07000215",
+   "snac": "43UK"
+  },
+  "E07000216": {
+   "name": "Waverley Borough Council",
+   "homepage_url": "https://www.waverley.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "waverley",
+   "gss": "E07000216",
+   "snac": "43UL"
+  },
+  "E07000217": {
+   "name": "Woking Borough Council",
+   "homepage_url": "https://www.woking.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "woking",
+   "gss": "E07000217",
+   "snac": "43UM"
+  },
+  "E07000218": {
+   "name": "North Warwickshire Borough Council",
+   "homepage_url": "https://northwarks.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "north-warwickshire",
+   "gss": "E07000218",
+   "snac": "44UB"
+  },
+  "E10000031": {
+   "name": "Warwickshire County Council",
+   "homepage_url": "https://www.warwickshire.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "warwickshire",
+   "gss": "E10000031",
+   "snac": "44"
+  },
+  "E07000219": {
+   "name": "Nuneaton and Bedworth Borough Council",
+   "homepage_url": "https://www.nuneatonandbedworth.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "nuneaton-and-bedworth",
+   "gss": "E07000219",
+   "snac": "44UC"
+  },
+  "E07000220": {
+   "name": "Rugby Borough Council",
+   "homepage_url": "http://www.rugby.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "rugby",
+   "gss": "E07000220",
+   "snac": "44UD"
+  },
+  "E07000221": {
+   "name": "Stratford-on-Avon District Council",
+   "homepage_url": "https://www.stratford.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "stratford-on-avon",
+   "gss": "E07000221",
+   "snac": "44UE"
+  },
+  "E07000222": {
+   "name": "Warwick District Council",
+   "homepage_url": "https://www.warwickdc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "warwick",
+   "gss": "E07000222",
+   "snac": "44UF"
+  },
+  "E07000223": {
+   "name": "Adur District Council",
+   "homepage_url": "https://www.adur-worthing.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "adur",
+   "gss": "E07000223",
+   "snac": "45UB"
+  },
+  "E10000032": {
+   "name": "West Sussex County Council",
+   "homepage_url": "http://www.westsussex.gov.uk/",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "west-sussex",
+   "gss": "E10000032",
+   "snac": "45"
+  },
+  "E07000224": {
+   "name": "Arun District Council",
+   "homepage_url": "http://www.arun.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "arun",
+   "gss": "E07000224",
+   "snac": "45UC"
+  },
+  "E07000225": {
+   "name": "Chichester District Council",
+   "homepage_url": "http://www.chichester.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "chichester",
+   "gss": "E07000225",
+   "snac": "45UD"
+  },
+  "E07000226": {
+   "name": "Crawley Borough Council",
+   "homepage_url": "https://crawley.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "crawley",
+   "gss": "E07000226",
+   "snac": "45UE"
+  },
+  "E07000227": {
+   "name": "Horsham District Council",
+   "homepage_url": "https://www.horsham.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "horsham",
+   "gss": "E07000227",
+   "snac": "45UF"
+  },
+  "E07000228": {
+   "name": "Mid Sussex District Council",
+   "homepage_url": "http://www.midsussex.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "mid-sussex",
+   "gss": "E07000228",
+   "snac": "45UG"
+  },
+  "E07000229": {
+   "name": "Worthing Borough Council",
+   "homepage_url": "https://www.adur-worthing.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "worthing",
+   "gss": "E07000229",
+   "snac": "45UH"
+  },
+  "E07000234": {
+   "name": "Bromsgrove District Council",
+   "homepage_url": "http://www.bromsgrove.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "bromsgrove",
+   "gss": "E07000234",
+   "snac": "47UB"
+  },
+  "E10000034": {
+   "name": "Worcestershire County Council",
+   "homepage_url": "http://www.worcestershire.gov.uk",
+   "country_name": "England",
+   "tier": "county",
+   "slug": "worcestershire",
+   "gss": "E10000034",
+   "snac": "47"
+  },
+  "E07000235": {
+   "name": "Malvern Hills District Council",
+   "homepage_url": "https://www.malvernhills.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "malvern-hills",
+   "gss": "E07000235",
+   "snac": "47UC"
+  },
+  "E07000236": {
+   "name": "Redditch Borough Council",
+   "homepage_url": "https://www.redditchbc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "redditch",
+   "gss": "E07000236",
+   "snac": "47UD"
+  },
+  "E07000237": {
+   "name": "Worcester City Council",
+   "homepage_url": "http://www.worcester.gov.uk",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "worcester",
+   "gss": "E07000237",
+   "snac": "47UE"
+  },
+  "E07000238": {
+   "name": "Wychavon District Council",
+   "homepage_url": "http://www.wychavon.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "wychavon",
+   "gss": "E07000238",
+   "snac": "47UF"
+  },
+  "E07000239": {
+   "name": "Wyre Forest District Council",
+   "homepage_url": "https://www.wyreforestdc.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "wyre-forest",
+   "gss": "E07000239",
+   "snac": "47UG"
+  },
+  "E07000240": {
+   "name": "St Albans City and District Council",
+   "homepage_url": "https://www.stalbans.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "st-albans",
+   "gss": "E07000240",
+   "snac": "26UG"
+  },
+  "E07000241": {
+   "name": "Welwyn Hatfield Council",
+   "homepage_url": "https://www.welhat.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "welwyn-hatfield",
+   "gss": "E07000241",
+   "snac": "26UL"
+  },
+  "E07000242": {
+   "name": "East Hertfordshire District Council",
+   "homepage_url": "https://www.eastherts.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "east-hertfordshire",
+   "gss": "E07000242",
+   "snac": "26UD"
+  },
+  "E07000243": {
+   "name": "Stevenage Borough Council",
+   "homepage_url": "https://www.stevenage.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "stevenage",
+   "gss": "E07000243",
+   "snac": "26UH"
+  },
+  "E07000244": {
+   "name": "East Suffolk District Council",
+   "homepage_url": "https://www.eastsuffolk.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "east-suffolk",
+   "gss": "E07000244",
+   "snac": "E07000244"
+  },
+  "E07000245": {
+   "name": "West Suffolk District Council",
+   "homepage_url": "https://www.westsuffolk.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "west-suffolk",
+   "gss": "E07000245",
+   "snac": "E07000245"
+  },
+  "E08000001": {
+   "name": "Bolton Metropolitan Borough Council",
+   "homepage_url": "http://www.bolton.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bolton",
+   "gss": "E08000001",
+   "snac": "00BL"
+  },
+  "E08000002": {
+   "name": "Bury Metropolitan Borough Council",
+   "homepage_url": "https://www.bury.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bury",
+   "gss": "E08000002",
+   "snac": "00BM"
+  },
+  "E08000003": {
+   "name": "Manchester City Council",
+   "homepage_url": "http://www.manchester.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "manchester",
+   "gss": "E08000003",
+   "snac": "00BN"
+  },
+  "E08000004": {
+   "name": "Oldham Metropolitan Borough Council",
+   "homepage_url": "https://www.oldham.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "oldham",
+   "gss": "E08000004",
+   "snac": "00BP"
+  },
+  "E08000005": {
+   "name": "Rochdale Metropolitan Borough Council",
+   "homepage_url": "http://www.rochdale.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "rochdale",
+   "gss": "E08000005",
+   "snac": "00BQ"
+  },
+  "E08000006": {
+   "name": "Salford City Council",
+   "homepage_url": "https://www.salford.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "salford",
+   "gss": "E08000006",
+   "snac": "00BR"
+  },
+  "E08000007": {
+   "name": "Stockport Metropolitan Borough Council",
+   "homepage_url": "https://www.stockport.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "stockport",
+   "gss": "E08000007",
+   "snac": "00BS"
+  },
+  "E08000008": {
+   "name": "Tameside Metropolitan Borough Council",
+   "homepage_url": "https://www.tameside.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "tameside",
+   "gss": "E08000008",
+   "snac": "00BT"
+  },
+  "E08000009": {
+   "name": "Trafford Metropolitan Borough Council",
+   "homepage_url": "https://www.trafford.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "trafford",
+   "gss": "E08000009",
+   "snac": "00BU"
+  },
+  "E08000010": {
+   "name": "Wigan Metropolitan Borough Council",
+   "homepage_url": "https://www.wigan.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "wigan",
+   "gss": "E08000010",
+   "snac": "00BW"
+  },
+  "E08000011": {
+   "name": "Knowsley Metropolitan Borough Council",
+   "homepage_url": "https://www.knowsley.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "knowsley",
+   "gss": "E08000011",
+   "snac": "00BX"
+  },
+  "E08000012": {
+   "name": "Liverpool City Council",
+   "homepage_url": "https://liverpool.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "liverpool",
+   "gss": "E08000012",
+   "snac": "00BY"
+  },
+  "E08000013": {
+   "name": "St Helens Council",
+   "homepage_url": "https://www.sthelens.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "st-helens",
+   "gss": "E08000013",
+   "snac": "00BZ"
+  },
+  "E08000014": {
+   "name": "Sefton Metropolitan Borough Council",
+   "homepage_url": "https://www.sefton.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "sefton",
+   "gss": "E08000014",
+   "snac": "00CA"
+  },
+  "E08000015": {
+   "name": "Wirral Council",
+   "homepage_url": "http://www.wirral.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "wirral",
+   "gss": "E08000015",
+   "snac": "00CB"
+  },
+  "E08000017": {
+   "name": "Doncaster Metropolitan Borough Council",
+   "homepage_url": "http://www.doncaster.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "doncaster",
+   "gss": "E08000017",
+   "snac": "00CE"
+  },
+  "E08000018": {
+   "name": "Rotherham Metropolitan Borough Council",
+   "homepage_url": "https://www.rotherham.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "rotherham",
+   "gss": "E08000018",
+   "snac": "00CF"
+  },
+  "E08000021": {
+   "name": "Newcastle City Council",
+   "homepage_url": "https://www.newcastle.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "newcastle-upon-tyne",
+   "gss": "E08000021",
+   "snac": "00CJ"
+  },
+  "E08000022": {
+   "name": "North Tyneside Council",
+   "homepage_url": "https://my.northtyneside.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "north-tyneside",
+   "gss": "E08000022",
+   "snac": "00CK"
+  },
+  "E08000023": {
+   "name": "South Tyneside Council",
+   "homepage_url": "http://www.southtyneside.gov.uk",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "south-tyneside",
+   "gss": "E08000023",
+   "snac": "00CL"
+  },
+  "E08000024": {
+   "name": "Sunderland City Council",
+   "homepage_url": "https://www.sunderland.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "sunderland",
+   "gss": "E08000024",
+   "snac": "00CM"
+  },
+  "E08000025": {
+   "name": "Birmingham City Council",
+   "homepage_url": "https://www.birmingham.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "birmingham",
+   "gss": "E08000025",
+   "snac": "00CN"
+  },
+  "E08000026": {
+   "name": "Coventry City Council",
+   "homepage_url": "https://www.coventry.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "coventry",
+   "gss": "E08000026",
+   "snac": "00CQ"
+  },
+  "E08000027": {
+   "name": "Dudley Metropolitan Borough Council",
+   "homepage_url": "https://www.dudley.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "dudley",
+   "gss": "E08000027",
+   "snac": "00CR"
+  },
+  "E08000028": {
+   "name": "Sandwell Metropolitan Borough Council",
+   "homepage_url": "http://www.sandwell.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "sandwell",
+   "gss": "E08000028",
+   "snac": "00CS"
+  },
+  "E08000029": {
+   "name": "Solihull Metropolitan Borough Council",
+   "homepage_url": "https://www.solihull.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "solihull",
+   "gss": "E08000029",
+   "snac": "00CT"
+  },
+  "E08000030": {
+   "name": "Walsall Metropolitan Borough Council",
+   "homepage_url": "https://go.walsall.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "walsall",
+   "gss": "E08000030",
+   "snac": "00CU"
+  },
+  "E08000031": {
+   "name": "City of Wolverhampton Council",
+   "homepage_url": "http://www.wolverhampton.gov.uk",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "wolverhampton",
+   "gss": "E08000031",
+   "snac": "00CW"
+  },
+  "E08000032": {
+   "name": "City of Bradford Metropolitan District Council",
+   "homepage_url": "https://www.bradford.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bradford",
+   "gss": "E08000032",
+   "snac": "00CX"
+  },
+  "E08000033": {
+   "name": "Calderdale Metropolitan Borough Council",
+   "homepage_url": "https://www.calderdale.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "calderdale",
+   "gss": "E08000033",
+   "snac": "00CY"
+  },
+  "E08000034": {
+   "name": "Kirklees Council",
+   "homepage_url": "https://www.kirklees.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "kirklees",
+   "gss": "E08000034",
+   "snac": "00CZ"
+  },
+  "E08000035": {
+   "name": "Leeds City Council",
+   "homepage_url": "https://www.leeds.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "leeds",
+   "gss": "E08000035",
+   "snac": "00DA"
+  },
+  "E08000036": {
+   "name": "Wakefield Metropolitan District Council",
+   "homepage_url": "https://www.wakefield.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "wakefield",
+   "gss": "E08000036",
+   "snac": "00DB"
+  },
+  "E08000037": {
+   "name": "Gateshead Metropolitan Borough Council",
+   "homepage_url": "https://www.gateshead.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "gateshead",
+   "gss": "E08000037",
+   "snac": "00CH"
+  },
+  "E08000016": {
+   "name": "Barnsley Metropolitan Borough Council",
+   "homepage_url": "https://www.barnsley.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "barnsley",
+   "gss": "E08000016",
+   "snac": "00CC"
+  },
+  "E08000019": {
+   "name": "Sheffield City Council",
+   "homepage_url": "https://www.sheffield.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "sheffield",
+   "gss": "E08000019",
+   "snac": "00CG"
+  },
+  "E09000001": {
+   "name": "City of London Corporation",
+   "homepage_url": "https://www.cityoflondon.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "city-of-london",
+   "gss": "E09000001",
+   "snac": "00AA"
+  },
+  "E09000002": {
+   "name": "London Borough of Barking and Dagenham",
+   "homepage_url": "https://www.lbbd.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "barking-and-dagenham",
+   "gss": "E09000002",
+   "snac": "00AB"
+  },
+  "E09000003": {
+   "name": "London Borough of Barnet",
+   "homepage_url": "https://www.barnet.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "barnet",
+   "gss": "E09000003",
+   "snac": "00AC"
+  },
+  "E09000004": {
+   "name": "London Borough of Bexley",
+   "homepage_url": "https://www.bexley.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bexley",
+   "gss": "E09000004",
+   "snac": "00AD"
+  },
+  "E09000005": {
+   "name": "London Borough of Brent",
+   "homepage_url": "https://www.brent.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "brent",
+   "gss": "E09000005",
+   "snac": "00AE"
+  },
+  "E09000006": {
+   "name": "London Borough of Bromley",
+   "homepage_url": "https://www.bromley.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bromley",
+   "gss": "E09000006",
+   "snac": "00AF"
+  },
+  "E09000007": {
+   "name": "London Borough of Camden",
+   "homepage_url": "https://www.camden.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "camden",
+   "gss": "E09000007",
+   "snac": "00AG"
+  },
+  "E09000008": {
+   "name": "London Borough of Croydon",
+   "homepage_url": "http://www.croydon.gov.uk",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "croydon",
+   "gss": "E09000008",
+   "snac": "00AH"
+  },
+  "E09000009": {
+   "name": "London Borough of Ealing",
+   "homepage_url": "https://www.ealing.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "ealing",
+   "gss": "E09000009",
+   "snac": "00AJ"
+  },
+  "E09000010": {
+   "name": "London Borough of Enfield",
+   "homepage_url": "https://new.enfield.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "enfield",
+   "gss": "E09000010",
+   "snac": "00AK"
+  },
+  "E09000011": {
+   "name": "Royal Borough of Greenwich",
+   "homepage_url": "http://www.royalgreenwich.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "greenwich",
+   "gss": "E09000011",
+   "snac": "00AL"
+  },
+  "E09000012": {
+   "name": "London Borough of Hackney",
+   "homepage_url": "https://hackney.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "hackney",
+   "gss": "E09000012",
+   "snac": "00AM"
+  },
+  "E09000013": {
+   "name": "London Borough of Hammersmith & Fulham",
+   "homepage_url": "http://www.lbhf.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "hammersmith-and-fulham",
+   "gss": "E09000013",
+   "snac": "00AN"
+  },
+  "E09000014": {
+   "name": "London Borough of Haringey",
+   "homepage_url": "https://www.haringey.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "haringey",
+   "gss": "E09000014",
+   "snac": "00AP"
+  },
+  "E09000015": {
+   "name": "London Borough of Harrow",
+   "homepage_url": "https://www.harrow.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "harrow",
+   "gss": "E09000015",
+   "snac": "00AQ"
+  },
+  "E09000016": {
+   "name": "London Borough of Havering",
+   "homepage_url": "https://www.havering.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "havering",
+   "gss": "E09000016",
+   "snac": "00AR"
+  },
+  "E09000017": {
+   "name": "London Borough of Hillingdon",
+   "homepage_url": "https://www.hillingdon.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "hillingdon",
+   "gss": "E09000017",
+   "snac": "00AS"
+  },
+  "E09000018": {
+   "name": "London Borough of Hounslow",
+   "homepage_url": "https://www.hounslow.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "hounslow",
+   "gss": "E09000018",
+   "snac": "00AT"
+  },
+  "E09000019": {
+   "name": "London Borough of Islington",
+   "homepage_url": "https://www.islington.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "islington",
+   "gss": "E09000019",
+   "snac": "00AU"
+  },
+  "E09000020": {
+   "name": "Royal Borough of Kensington and Chelsea",
+   "homepage_url": "https://www.rbkc.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "kensington-and-chelsea",
+   "gss": "E09000020",
+   "snac": "00AW"
+  },
+  "E09000021": {
+   "name": "Royal Borough of Kingston upon Thames",
+   "homepage_url": "https://www.kingston.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "kingston-upon-thames",
+   "gss": "E09000021",
+   "snac": "00AX"
+  },
+  "E09000022": {
+   "name": "London Borough of Lambeth",
+   "homepage_url": "http://www.lambeth.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "lambeth",
+   "gss": "E09000022",
+   "snac": "00AY"
+  },
+  "E09000023": {
+   "name": "London Borough of Lewisham",
+   "homepage_url": "https://lewisham.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "lewisham",
+   "gss": "E09000023",
+   "snac": "00AZ"
+  },
+  "E09000024": {
+   "name": "London Borough of Merton",
+   "homepage_url": "http://www.merton.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "merton",
+   "gss": "E09000024",
+   "snac": "00BA"
+  },
+  "E09000025": {
+   "name": "London Borough of Newham",
+   "homepage_url": "https://www.newham.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "newham",
+   "gss": "E09000025",
+   "snac": "00BB"
+  },
+  "E09000026": {
+   "name": "London Borough of Redbridge",
+   "homepage_url": "https://www.redbridge.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "redbridge",
+   "gss": "E09000026",
+   "snac": "00BC"
+  },
+  "E09000027": {
+   "name": "London Borough of Richmond upon Thames",
+   "homepage_url": "http://www.richmond.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "richmond-upon-thames",
+   "gss": "E09000027",
+   "snac": "00BD"
+  },
+  "E09000028": {
+   "name": "London Borough of Southwark",
+   "homepage_url": "https://www.southwark.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "southwark",
+   "gss": "E09000028",
+   "snac": "00BE"
+  },
+  "E09000029": {
+   "name": "London Borough of Sutton",
+   "homepage_url": "https://www.sutton.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "sutton",
+   "gss": "E09000029",
+   "snac": "00BF"
+  },
+  "E09000030": {
+   "name": "London Borough of Tower Hamlets",
+   "homepage_url": "https://www.towerhamlets.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "tower-hamlets",
+   "gss": "E09000030",
+   "snac": "00BG"
+  },
+  "E09000031": {
+   "name": "London Borough of Waltham Forest",
+   "homepage_url": "https://www.walthamforest.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "waltham-forest",
+   "gss": "E09000031",
+   "snac": "00BH"
+  },
+  "E09000032": {
+   "name": "London Borough of Wandsworth",
+   "homepage_url": "https://www.wandsworth.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "wandsworth",
+   "gss": "E09000032",
+   "snac": "00BJ"
+  },
+  "E09000033": {
+   "name": "City of Westminster",
+   "homepage_url": "https://www.westminster.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "westminster",
+   "gss": "E09000033",
+   "snac": "00BK"
+  },
+  "E06000010": {
+   "name": "Hull City Council",
+   "homepage_url": "https://www.hull.gov.uk",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "kingston-upon-hull",
+   "gss": "E06000010",
+   "snac": "00FA"
+  },
+  "E06000019": {
+   "name": "Herefordshire Council",
+   "homepage_url": "https://www.herefordshire.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "herefordshire",
+   "gss": "E06000019",
+   "snac": "00GA"
+  },
+  "E06000023": {
+   "name": "Bristol City Council",
+   "homepage_url": "https://www.bristol.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bristol",
+   "gss": "E06000023",
+   "snac": "00HB"
+  },
+  "E06000058": {
+   "name": "Bournemouth, Christchurch and Poole Council",
+   "homepage_url": "https://www.bcpcouncil.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "bournemouth-christchurch-poole",
+   "gss": "E06000058",
+   "snac": "E06000058"
+  },
+  "E06000065": {
+   "name": "North Yorkshire Council",
+   "homepage_url": "http://www.northyorks.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "north-yorkshire",
+   "gss": "E10000023",
+   "snac": "36"
+  },
+  "E06000066": {
+   "name": "Somerset Council",
+   "homepage_url": "http://www.somerset.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "somerset",
+   "gss": "E10000027",
+   "snac": "40"
+  },
+  "E07000112": {
+   "name": "Folkestone and Hythe District Council",
+   "homepage_url": "https://www.folkestone-hythe.gov.uk/",
+   "country_name": "England",
+   "tier": "district",
+   "slug": "folkestone-hythe",
+   "gss": "E07000112",
+   "snac": "29UL"
+  },
+  "E08000038": {
+   "name": "Barnsley Metropolitan Borough Council",
+   "homepage_url": "https://www.barnsley.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "barnsley",
+   "gss": "E08000016",
+   "snac": "00CC"
+  },
+  "E08000039": {
+   "name": "Sheffield City Council",
+   "homepage_url": "https://www.sheffield.gov.uk/",
+   "country_name": "England",
+   "tier": "unitary",
+   "slug": "sheffield",
+   "gss": "E08000019",
+   "snac": "00CG"
+  }
+ }
+}

@@ -1,0 +1,1783 @@
+{
+ "source": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/WD26_LAD26_CTYUA26_RGN26_CTRY26_UK_LU/FeatureServer/0/query?where=LAD26CD+LIKE+%27E%25%27&outFields=LAD26CD%2CLAD26NM%2CCTYUA26CD%2CCTYUA26NM&returnDistinctValues=true&returnGeometry=false&orderByFields=LAD26CD&resultRecordCount=2000&f=json",
+ "service": "WD26_LAD26_CTYUA26_RGN26_CTRY26_UK_LU",
+ "fetched_at": "2026-09-26T10:50:55.763Z",
+ "rows": [
+  {
+   "LAD26CD": "E06000001",
+   "LAD26NM": "Hartlepool",
+   "CTYUA26CD": "E06000001",
+   "CTYUA26NM": "Hartlepool"
+  },
+  {
+   "LAD26CD": "E06000002",
+   "LAD26NM": "Middlesbrough",
+   "CTYUA26CD": "E06000002",
+   "CTYUA26NM": "Middlesbrough"
+  },
+  {
+   "LAD26CD": "E06000003",
+   "LAD26NM": "Redcar and Cleveland",
+   "CTYUA26CD": "E06000003",
+   "CTYUA26NM": "Redcar and Cleveland"
+  },
+  {
+   "LAD26CD": "E06000004",
+   "LAD26NM": "Stockton-on-Tees",
+   "CTYUA26CD": "E06000004",
+   "CTYUA26NM": "Stockton-on-Tees"
+  },
+  {
+   "LAD26CD": "E06000005",
+   "LAD26NM": "Darlington",
+   "CTYUA26CD": "E06000005",
+   "CTYUA26NM": "Darlington"
+  },
+  {
+   "LAD26CD": "E06000006",
+   "LAD26NM": "Halton",
+   "CTYUA26CD": "E06000006",
+   "CTYUA26NM": "Halton"
+  },
+  {
+   "LAD26CD": "E06000007",
+   "LAD26NM": "Warrington",
+   "CTYUA26CD": "E06000007",
+   "CTYUA26NM": "Warrington"
+  },
+  {
+   "LAD26CD": "E06000008",
+   "LAD26NM": "Blackburn with Darwen",
+   "CTYUA26CD": "E06000008",
+   "CTYUA26NM": "Blackburn with Darwen"
+  },
+  {
+   "LAD26CD": "E06000009",
+   "LAD26NM": "Blackpool",
+   "CTYUA26CD": "E06000009",
+   "CTYUA26NM": "Blackpool"
+  },
+  {
+   "LAD26CD": "E06000010",
+   "LAD26NM": "Kingston upon Hull, City of",
+   "CTYUA26CD": "E06000010",
+   "CTYUA26NM": "Kingston upon Hull, City of"
+  },
+  {
+   "LAD26CD": "E06000011",
+   "LAD26NM": "East Riding of Yorkshire",
+   "CTYUA26CD": "E06000011",
+   "CTYUA26NM": "East Riding of Yorkshire"
+  },
+  {
+   "LAD26CD": "E06000012",
+   "LAD26NM": "North East Lincolnshire",
+   "CTYUA26CD": "E06000012",
+   "CTYUA26NM": "North East Lincolnshire"
+  },
+  {
+   "LAD26CD": "E06000013",
+   "LAD26NM": "North Lincolnshire",
+   "CTYUA26CD": "E06000013",
+   "CTYUA26NM": "North Lincolnshire"
+  },
+  {
+   "LAD26CD": "E06000014",
+   "LAD26NM": "York",
+   "CTYUA26CD": "E06000014",
+   "CTYUA26NM": "York"
+  },
+  {
+   "LAD26CD": "E06000015",
+   "LAD26NM": "Derby",
+   "CTYUA26CD": "E06000015",
+   "CTYUA26NM": "Derby"
+  },
+  {
+   "LAD26CD": "E06000016",
+   "LAD26NM": "Leicester",
+   "CTYUA26CD": "E06000016",
+   "CTYUA26NM": "Leicester"
+  },
+  {
+   "LAD26CD": "E06000017",
+   "LAD26NM": "Rutland",
+   "CTYUA26CD": "E06000017",
+   "CTYUA26NM": "Rutland"
+  },
+  {
+   "LAD26CD": "E06000018",
+   "LAD26NM": "Nottingham",
+   "CTYUA26CD": "E06000018",
+   "CTYUA26NM": "Nottingham"
+  },
+  {
+   "LAD26CD": "E06000019",
+   "LAD26NM": "Herefordshire, County of",
+   "CTYUA26CD": "E06000019",
+   "CTYUA26NM": "Herefordshire, County of"
+  },
+  {
+   "LAD26CD": "E06000020",
+   "LAD26NM": "Telford and Wrekin",
+   "CTYUA26CD": "E06000020",
+   "CTYUA26NM": "Telford and Wrekin"
+  },
+  {
+   "LAD26CD": "E06000021",
+   "LAD26NM": "Stoke-on-Trent",
+   "CTYUA26CD": "E06000021",
+   "CTYUA26NM": "Stoke-on-Trent"
+  },
+  {
+   "LAD26CD": "E06000022",
+   "LAD26NM": "Bath and North East Somerset",
+   "CTYUA26CD": "E06000022",
+   "CTYUA26NM": "Bath and North East Somerset"
+  },
+  {
+   "LAD26CD": "E06000023",
+   "LAD26NM": "Bristol, City of",
+   "CTYUA26CD": "E06000023",
+   "CTYUA26NM": "Bristol, City of"
+  },
+  {
+   "LAD26CD": "E06000024",
+   "LAD26NM": "North Somerset",
+   "CTYUA26CD": "E06000024",
+   "CTYUA26NM": "North Somerset"
+  },
+  {
+   "LAD26CD": "E06000025",
+   "LAD26NM": "South Gloucestershire",
+   "CTYUA26CD": "E06000025",
+   "CTYUA26NM": "South Gloucestershire"
+  },
+  {
+   "LAD26CD": "E06000026",
+   "LAD26NM": "Plymouth",
+   "CTYUA26CD": "E06000026",
+   "CTYUA26NM": "Plymouth"
+  },
+  {
+   "LAD26CD": "E06000027",
+   "LAD26NM": "Torbay",
+   "CTYUA26CD": "E06000027",
+   "CTYUA26NM": "Torbay"
+  },
+  {
+   "LAD26CD": "E06000030",
+   "LAD26NM": "Swindon",
+   "CTYUA26CD": "E06000030",
+   "CTYUA26NM": "Swindon"
+  },
+  {
+   "LAD26CD": "E06000031",
+   "LAD26NM": "Peterborough",
+   "CTYUA26CD": "E06000031",
+   "CTYUA26NM": "Peterborough"
+  },
+  {
+   "LAD26CD": "E06000032",
+   "LAD26NM": "Luton",
+   "CTYUA26CD": "E06000032",
+   "CTYUA26NM": "Luton"
+  },
+  {
+   "LAD26CD": "E06000033",
+   "LAD26NM": "Southend-on-Sea",
+   "CTYUA26CD": "E06000033",
+   "CTYUA26NM": "Southend-on-Sea"
+  },
+  {
+   "LAD26CD": "E06000034",
+   "LAD26NM": "Thurrock",
+   "CTYUA26CD": "E06000034",
+   "CTYUA26NM": "Thurrock"
+  },
+  {
+   "LAD26CD": "E06000035",
+   "LAD26NM": "Medway",
+   "CTYUA26CD": "E06000035",
+   "CTYUA26NM": "Medway"
+  },
+  {
+   "LAD26CD": "E06000036",
+   "LAD26NM": "Bracknell Forest",
+   "CTYUA26CD": "E06000036",
+   "CTYUA26NM": "Bracknell Forest"
+  },
+  {
+   "LAD26CD": "E06000037",
+   "LAD26NM": "West Berkshire",
+   "CTYUA26CD": "E06000037",
+   "CTYUA26NM": "West Berkshire"
+  },
+  {
+   "LAD26CD": "E06000038",
+   "LAD26NM": "Reading",
+   "CTYUA26CD": "E06000038",
+   "CTYUA26NM": "Reading"
+  },
+  {
+   "LAD26CD": "E06000039",
+   "LAD26NM": "Slough",
+   "CTYUA26CD": "E06000039",
+   "CTYUA26NM": "Slough"
+  },
+  {
+   "LAD26CD": "E06000040",
+   "LAD26NM": "Windsor and Maidenhead",
+   "CTYUA26CD": "E06000040",
+   "CTYUA26NM": "Windsor and Maidenhead"
+  },
+  {
+   "LAD26CD": "E06000041",
+   "LAD26NM": "Wokingham",
+   "CTYUA26CD": "E06000041",
+   "CTYUA26NM": "Wokingham"
+  },
+  {
+   "LAD26CD": "E06000042",
+   "LAD26NM": "Milton Keynes",
+   "CTYUA26CD": "E06000042",
+   "CTYUA26NM": "Milton Keynes"
+  },
+  {
+   "LAD26CD": "E06000043",
+   "LAD26NM": "Brighton and Hove",
+   "CTYUA26CD": "E06000043",
+   "CTYUA26NM": "Brighton and Hove"
+  },
+  {
+   "LAD26CD": "E06000044",
+   "LAD26NM": "Portsmouth",
+   "CTYUA26CD": "E06000044",
+   "CTYUA26NM": "Portsmouth"
+  },
+  {
+   "LAD26CD": "E06000045",
+   "LAD26NM": "Southampton",
+   "CTYUA26CD": "E06000045",
+   "CTYUA26NM": "Southampton"
+  },
+  {
+   "LAD26CD": "E06000046",
+   "LAD26NM": "Isle of Wight",
+   "CTYUA26CD": "E06000046",
+   "CTYUA26NM": "Isle of Wight"
+  },
+  {
+   "LAD26CD": "E06000047",
+   "LAD26NM": "County Durham",
+   "CTYUA26CD": "E06000047",
+   "CTYUA26NM": "County Durham"
+  },
+  {
+   "LAD26CD": "E06000049",
+   "LAD26NM": "Cheshire East",
+   "CTYUA26CD": "E06000049",
+   "CTYUA26NM": "Cheshire East"
+  },
+  {
+   "LAD26CD": "E06000050",
+   "LAD26NM": "Cheshire West and Chester",
+   "CTYUA26CD": "E06000050",
+   "CTYUA26NM": "Cheshire West and Chester"
+  },
+  {
+   "LAD26CD": "E06000051",
+   "LAD26NM": "Shropshire",
+   "CTYUA26CD": "E06000051",
+   "CTYUA26NM": "Shropshire"
+  },
+  {
+   "LAD26CD": "E06000052",
+   "LAD26NM": "Cornwall",
+   "CTYUA26CD": "E06000052",
+   "CTYUA26NM": "Cornwall"
+  },
+  {
+   "LAD26CD": "E06000053",
+   "LAD26NM": "Isles of Scilly",
+   "CTYUA26CD": "E06000053",
+   "CTYUA26NM": "Isles of Scilly"
+  },
+  {
+   "LAD26CD": "E06000054",
+   "LAD26NM": "Wiltshire",
+   "CTYUA26CD": "E06000054",
+   "CTYUA26NM": "Wiltshire"
+  },
+  {
+   "LAD26CD": "E06000055",
+   "LAD26NM": "Bedford",
+   "CTYUA26CD": "E06000055",
+   "CTYUA26NM": "Bedford"
+  },
+  {
+   "LAD26CD": "E06000056",
+   "LAD26NM": "Central Bedfordshire",
+   "CTYUA26CD": "E06000056",
+   "CTYUA26NM": "Central Bedfordshire"
+  },
+  {
+   "LAD26CD": "E06000057",
+   "LAD26NM": "Northumberland",
+   "CTYUA26CD": "E06000057",
+   "CTYUA26NM": "Northumberland"
+  },
+  {
+   "LAD26CD": "E06000058",
+   "LAD26NM": "Bournemouth, Christchurch and Poole",
+   "CTYUA26CD": "E06000058",
+   "CTYUA26NM": "Bournemouth, Christchurch and Poole"
+  },
+  {
+   "LAD26CD": "E06000059",
+   "LAD26NM": "Dorset",
+   "CTYUA26CD": "E06000059",
+   "CTYUA26NM": "Dorset"
+  },
+  {
+   "LAD26CD": "E06000060",
+   "LAD26NM": "Buckinghamshire",
+   "CTYUA26CD": "E06000060",
+   "CTYUA26NM": "Buckinghamshire"
+  },
+  {
+   "LAD26CD": "E06000061",
+   "LAD26NM": "North Northamptonshire",
+   "CTYUA26CD": "E06000061",
+   "CTYUA26NM": "North Northamptonshire"
+  },
+  {
+   "LAD26CD": "E06000062",
+   "LAD26NM": "West Northamptonshire",
+   "CTYUA26CD": "E06000062",
+   "CTYUA26NM": "West Northamptonshire"
+  },
+  {
+   "LAD26CD": "E06000063",
+   "LAD26NM": "Cumberland",
+   "CTYUA26CD": "E06000063",
+   "CTYUA26NM": "Cumberland"
+  },
+  {
+   "LAD26CD": "E06000064",
+   "LAD26NM": "Westmorland and Furness",
+   "CTYUA26CD": "E06000064",
+   "CTYUA26NM": "Westmorland and Furness"
+  },
+  {
+   "LAD26CD": "E06000065",
+   "LAD26NM": "North Yorkshire",
+   "CTYUA26CD": "E06000065",
+   "CTYUA26NM": "North Yorkshire"
+  },
+  {
+   "LAD26CD": "E06000066",
+   "LAD26NM": "Somerset",
+   "CTYUA26CD": "E06000066",
+   "CTYUA26NM": "Somerset"
+  },
+  {
+   "LAD26CD": "E07000008",
+   "LAD26NM": "Cambridge",
+   "CTYUA26CD": "E10000003",
+   "CTYUA26NM": "Cambridgeshire"
+  },
+  {
+   "LAD26CD": "E07000009",
+   "LAD26NM": "East Cambridgeshire",
+   "CTYUA26CD": "E10000003",
+   "CTYUA26NM": "Cambridgeshire"
+  },
+  {
+   "LAD26CD": "E07000010",
+   "LAD26NM": "Fenland",
+   "CTYUA26CD": "E10000003",
+   "CTYUA26NM": "Cambridgeshire"
+  },
+  {
+   "LAD26CD": "E07000011",
+   "LAD26NM": "Huntingdonshire",
+   "CTYUA26CD": "E10000003",
+   "CTYUA26NM": "Cambridgeshire"
+  },
+  {
+   "LAD26CD": "E07000012",
+   "LAD26NM": "South Cambridgeshire",
+   "CTYUA26CD": "E10000003",
+   "CTYUA26NM": "Cambridgeshire"
+  },
+  {
+   "LAD26CD": "E07000032",
+   "LAD26NM": "Amber Valley",
+   "CTYUA26CD": "E10000007",
+   "CTYUA26NM": "Derbyshire"
+  },
+  {
+   "LAD26CD": "E07000033",
+   "LAD26NM": "Bolsover",
+   "CTYUA26CD": "E10000007",
+   "CTYUA26NM": "Derbyshire"
+  },
+  {
+   "LAD26CD": "E07000034",
+   "LAD26NM": "Chesterfield",
+   "CTYUA26CD": "E10000007",
+   "CTYUA26NM": "Derbyshire"
+  },
+  {
+   "LAD26CD": "E07000035",
+   "LAD26NM": "Derbyshire Dales",
+   "CTYUA26CD": "E10000007",
+   "CTYUA26NM": "Derbyshire"
+  },
+  {
+   "LAD26CD": "E07000036",
+   "LAD26NM": "Erewash",
+   "CTYUA26CD": "E10000007",
+   "CTYUA26NM": "Derbyshire"
+  },
+  {
+   "LAD26CD": "E07000037",
+   "LAD26NM": "High Peak",
+   "CTYUA26CD": "E10000007",
+   "CTYUA26NM": "Derbyshire"
+  },
+  {
+   "LAD26CD": "E07000038",
+   "LAD26NM": "North East Derbyshire",
+   "CTYUA26CD": "E10000007",
+   "CTYUA26NM": "Derbyshire"
+  },
+  {
+   "LAD26CD": "E07000039",
+   "LAD26NM": "South Derbyshire",
+   "CTYUA26CD": "E10000007",
+   "CTYUA26NM": "Derbyshire"
+  },
+  {
+   "LAD26CD": "E07000040",
+   "LAD26NM": "East Devon",
+   "CTYUA26CD": "E10000008",
+   "CTYUA26NM": "Devon"
+  },
+  {
+   "LAD26CD": "E07000041",
+   "LAD26NM": "Exeter",
+   "CTYUA26CD": "E10000008",
+   "CTYUA26NM": "Devon"
+  },
+  {
+   "LAD26CD": "E07000042",
+   "LAD26NM": "Mid Devon",
+   "CTYUA26CD": "E10000008",
+   "CTYUA26NM": "Devon"
+  },
+  {
+   "LAD26CD": "E07000043",
+   "LAD26NM": "North Devon",
+   "CTYUA26CD": "E10000008",
+   "CTYUA26NM": "Devon"
+  },
+  {
+   "LAD26CD": "E07000044",
+   "LAD26NM": "South Hams",
+   "CTYUA26CD": "E10000008",
+   "CTYUA26NM": "Devon"
+  },
+  {
+   "LAD26CD": "E07000045",
+   "LAD26NM": "Teignbridge",
+   "CTYUA26CD": "E10000008",
+   "CTYUA26NM": "Devon"
+  },
+  {
+   "LAD26CD": "E07000046",
+   "LAD26NM": "Torridge",
+   "CTYUA26CD": "E10000008",
+   "CTYUA26NM": "Devon"
+  },
+  {
+   "LAD26CD": "E07000047",
+   "LAD26NM": "West Devon",
+   "CTYUA26CD": "E10000008",
+   "CTYUA26NM": "Devon"
+  },
+  {
+   "LAD26CD": "E07000061",
+   "LAD26NM": "Eastbourne",
+   "CTYUA26CD": "E10000011",
+   "CTYUA26NM": "East Sussex"
+  },
+  {
+   "LAD26CD": "E07000062",
+   "LAD26NM": "Hastings",
+   "CTYUA26CD": "E10000011",
+   "CTYUA26NM": "East Sussex"
+  },
+  {
+   "LAD26CD": "E07000063",
+   "LAD26NM": "Lewes",
+   "CTYUA26CD": "E10000011",
+   "CTYUA26NM": "East Sussex"
+  },
+  {
+   "LAD26CD": "E07000064",
+   "LAD26NM": "Rother",
+   "CTYUA26CD": "E10000011",
+   "CTYUA26NM": "East Sussex"
+  },
+  {
+   "LAD26CD": "E07000065",
+   "LAD26NM": "Wealden",
+   "CTYUA26CD": "E10000011",
+   "CTYUA26NM": "East Sussex"
+  },
+  {
+   "LAD26CD": "E07000066",
+   "LAD26NM": "Basildon",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000067",
+   "LAD26NM": "Braintree",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000068",
+   "LAD26NM": "Brentwood",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000069",
+   "LAD26NM": "Castle Point",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000070",
+   "LAD26NM": "Chelmsford",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000071",
+   "LAD26NM": "Colchester",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000072",
+   "LAD26NM": "Epping Forest",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000073",
+   "LAD26NM": "Harlow",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000074",
+   "LAD26NM": "Maldon",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000075",
+   "LAD26NM": "Rochford",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000076",
+   "LAD26NM": "Tendring",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000077",
+   "LAD26NM": "Uttlesford",
+   "CTYUA26CD": "E10000012",
+   "CTYUA26NM": "Essex"
+  },
+  {
+   "LAD26CD": "E07000078",
+   "LAD26NM": "Cheltenham",
+   "CTYUA26CD": "E10000013",
+   "CTYUA26NM": "Gloucestershire"
+  },
+  {
+   "LAD26CD": "E07000079",
+   "LAD26NM": "Cotswold",
+   "CTYUA26CD": "E10000013",
+   "CTYUA26NM": "Gloucestershire"
+  },
+  {
+   "LAD26CD": "E07000080",
+   "LAD26NM": "Forest of Dean",
+   "CTYUA26CD": "E10000013",
+   "CTYUA26NM": "Gloucestershire"
+  },
+  {
+   "LAD26CD": "E07000081",
+   "LAD26NM": "Gloucester",
+   "CTYUA26CD": "E10000013",
+   "CTYUA26NM": "Gloucestershire"
+  },
+  {
+   "LAD26CD": "E07000082",
+   "LAD26NM": "Stroud",
+   "CTYUA26CD": "E10000013",
+   "CTYUA26NM": "Gloucestershire"
+  },
+  {
+   "LAD26CD": "E07000083",
+   "LAD26NM": "Tewkesbury",
+   "CTYUA26CD": "E10000013",
+   "CTYUA26NM": "Gloucestershire"
+  },
+  {
+   "LAD26CD": "E07000084",
+   "LAD26NM": "Basingstoke and Deane",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000085",
+   "LAD26NM": "East Hampshire",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000086",
+   "LAD26NM": "Eastleigh",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000087",
+   "LAD26NM": "Fareham",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000088",
+   "LAD26NM": "Gosport",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000089",
+   "LAD26NM": "Hart",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000090",
+   "LAD26NM": "Havant",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000091",
+   "LAD26NM": "New Forest",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000092",
+   "LAD26NM": "Rushmoor",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000093",
+   "LAD26NM": "Test Valley",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000094",
+   "LAD26NM": "Winchester",
+   "CTYUA26CD": "E10000014",
+   "CTYUA26NM": "Hampshire"
+  },
+  {
+   "LAD26CD": "E07000095",
+   "LAD26NM": "Broxbourne",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000096",
+   "LAD26NM": "Dacorum",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000098",
+   "LAD26NM": "Hertsmere",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000099",
+   "LAD26NM": "North Hertfordshire",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000102",
+   "LAD26NM": "Three Rivers",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000103",
+   "LAD26NM": "Watford",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000105",
+   "LAD26NM": "Ashford",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000106",
+   "LAD26NM": "Canterbury",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000107",
+   "LAD26NM": "Dartford",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000108",
+   "LAD26NM": "Dover",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000109",
+   "LAD26NM": "Gravesham",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000110",
+   "LAD26NM": "Maidstone",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000111",
+   "LAD26NM": "Sevenoaks",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000112",
+   "LAD26NM": "Folkestone and Hythe",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000113",
+   "LAD26NM": "Swale",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000114",
+   "LAD26NM": "Thanet",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000115",
+   "LAD26NM": "Tonbridge and Malling",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000116",
+   "LAD26NM": "Tunbridge Wells",
+   "CTYUA26CD": "E10000016",
+   "CTYUA26NM": "Kent"
+  },
+  {
+   "LAD26CD": "E07000117",
+   "LAD26NM": "Burnley",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000118",
+   "LAD26NM": "Chorley",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000119",
+   "LAD26NM": "Fylde",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000120",
+   "LAD26NM": "Hyndburn",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000121",
+   "LAD26NM": "Lancaster",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000122",
+   "LAD26NM": "Pendle",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000123",
+   "LAD26NM": "Preston",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000124",
+   "LAD26NM": "Ribble Valley",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000125",
+   "LAD26NM": "Rossendale",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000126",
+   "LAD26NM": "South Ribble",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000127",
+   "LAD26NM": "West Lancashire",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000128",
+   "LAD26NM": "Wyre",
+   "CTYUA26CD": "E10000017",
+   "CTYUA26NM": "Lancashire"
+  },
+  {
+   "LAD26CD": "E07000129",
+   "LAD26NM": "Blaby",
+   "CTYUA26CD": "E10000018",
+   "CTYUA26NM": "Leicestershire"
+  },
+  {
+   "LAD26CD": "E07000130",
+   "LAD26NM": "Charnwood",
+   "CTYUA26CD": "E10000018",
+   "CTYUA26NM": "Leicestershire"
+  },
+  {
+   "LAD26CD": "E07000131",
+   "LAD26NM": "Harborough",
+   "CTYUA26CD": "E10000018",
+   "CTYUA26NM": "Leicestershire"
+  },
+  {
+   "LAD26CD": "E07000132",
+   "LAD26NM": "Hinckley and Bosworth",
+   "CTYUA26CD": "E10000018",
+   "CTYUA26NM": "Leicestershire"
+  },
+  {
+   "LAD26CD": "E07000133",
+   "LAD26NM": "Melton",
+   "CTYUA26CD": "E10000018",
+   "CTYUA26NM": "Leicestershire"
+  },
+  {
+   "LAD26CD": "E07000134",
+   "LAD26NM": "North West Leicestershire",
+   "CTYUA26CD": "E10000018",
+   "CTYUA26NM": "Leicestershire"
+  },
+  {
+   "LAD26CD": "E07000135",
+   "LAD26NM": "Oadby and Wigston",
+   "CTYUA26CD": "E10000018",
+   "CTYUA26NM": "Leicestershire"
+  },
+  {
+   "LAD26CD": "E07000136",
+   "LAD26NM": "Boston",
+   "CTYUA26CD": "E10000019",
+   "CTYUA26NM": "Lincolnshire"
+  },
+  {
+   "LAD26CD": "E07000137",
+   "LAD26NM": "East Lindsey",
+   "CTYUA26CD": "E10000019",
+   "CTYUA26NM": "Lincolnshire"
+  },
+  {
+   "LAD26CD": "E07000138",
+   "LAD26NM": "Lincoln",
+   "CTYUA26CD": "E10000019",
+   "CTYUA26NM": "Lincolnshire"
+  },
+  {
+   "LAD26CD": "E07000139",
+   "LAD26NM": "North Kesteven",
+   "CTYUA26CD": "E10000019",
+   "CTYUA26NM": "Lincolnshire"
+  },
+  {
+   "LAD26CD": "E07000140",
+   "LAD26NM": "South Holland",
+   "CTYUA26CD": "E10000019",
+   "CTYUA26NM": "Lincolnshire"
+  },
+  {
+   "LAD26CD": "E07000141",
+   "LAD26NM": "South Kesteven",
+   "CTYUA26CD": "E10000019",
+   "CTYUA26NM": "Lincolnshire"
+  },
+  {
+   "LAD26CD": "E07000142",
+   "LAD26NM": "West Lindsey",
+   "CTYUA26CD": "E10000019",
+   "CTYUA26NM": "Lincolnshire"
+  },
+  {
+   "LAD26CD": "E07000143",
+   "LAD26NM": "Breckland",
+   "CTYUA26CD": "E10000020",
+   "CTYUA26NM": "Norfolk"
+  },
+  {
+   "LAD26CD": "E07000144",
+   "LAD26NM": "Broadland",
+   "CTYUA26CD": "E10000020",
+   "CTYUA26NM": "Norfolk"
+  },
+  {
+   "LAD26CD": "E07000145",
+   "LAD26NM": "Great Yarmouth",
+   "CTYUA26CD": "E10000020",
+   "CTYUA26NM": "Norfolk"
+  },
+  {
+   "LAD26CD": "E07000146",
+   "LAD26NM": "King's Lynn and West Norfolk",
+   "CTYUA26CD": "E10000020",
+   "CTYUA26NM": "Norfolk"
+  },
+  {
+   "LAD26CD": "E07000147",
+   "LAD26NM": "North Norfolk",
+   "CTYUA26CD": "E10000020",
+   "CTYUA26NM": "Norfolk"
+  },
+  {
+   "LAD26CD": "E07000148",
+   "LAD26NM": "Norwich",
+   "CTYUA26CD": "E10000020",
+   "CTYUA26NM": "Norfolk"
+  },
+  {
+   "LAD26CD": "E07000149",
+   "LAD26NM": "South Norfolk",
+   "CTYUA26CD": "E10000020",
+   "CTYUA26NM": "Norfolk"
+  },
+  {
+   "LAD26CD": "E07000170",
+   "LAD26NM": "Ashfield",
+   "CTYUA26CD": "E10000024",
+   "CTYUA26NM": "Nottinghamshire"
+  },
+  {
+   "LAD26CD": "E07000171",
+   "LAD26NM": "Bassetlaw",
+   "CTYUA26CD": "E10000024",
+   "CTYUA26NM": "Nottinghamshire"
+  },
+  {
+   "LAD26CD": "E07000172",
+   "LAD26NM": "Broxtowe",
+   "CTYUA26CD": "E10000024",
+   "CTYUA26NM": "Nottinghamshire"
+  },
+  {
+   "LAD26CD": "E07000173",
+   "LAD26NM": "Gedling",
+   "CTYUA26CD": "E10000024",
+   "CTYUA26NM": "Nottinghamshire"
+  },
+  {
+   "LAD26CD": "E07000174",
+   "LAD26NM": "Mansfield",
+   "CTYUA26CD": "E10000024",
+   "CTYUA26NM": "Nottinghamshire"
+  },
+  {
+   "LAD26CD": "E07000175",
+   "LAD26NM": "Newark and Sherwood",
+   "CTYUA26CD": "E10000024",
+   "CTYUA26NM": "Nottinghamshire"
+  },
+  {
+   "LAD26CD": "E07000176",
+   "LAD26NM": "Rushcliffe",
+   "CTYUA26CD": "E10000024",
+   "CTYUA26NM": "Nottinghamshire"
+  },
+  {
+   "LAD26CD": "E07000177",
+   "LAD26NM": "Cherwell",
+   "CTYUA26CD": "E10000025",
+   "CTYUA26NM": "Oxfordshire"
+  },
+  {
+   "LAD26CD": "E07000178",
+   "LAD26NM": "Oxford",
+   "CTYUA26CD": "E10000025",
+   "CTYUA26NM": "Oxfordshire"
+  },
+  {
+   "LAD26CD": "E07000179",
+   "LAD26NM": "South Oxfordshire",
+   "CTYUA26CD": "E10000025",
+   "CTYUA26NM": "Oxfordshire"
+  },
+  {
+   "LAD26CD": "E07000180",
+   "LAD26NM": "Vale of White Horse",
+   "CTYUA26CD": "E10000025",
+   "CTYUA26NM": "Oxfordshire"
+  },
+  {
+   "LAD26CD": "E07000181",
+   "LAD26NM": "West Oxfordshire",
+   "CTYUA26CD": "E10000025",
+   "CTYUA26NM": "Oxfordshire"
+  },
+  {
+   "LAD26CD": "E07000192",
+   "LAD26NM": "Cannock Chase",
+   "CTYUA26CD": "E10000028",
+   "CTYUA26NM": "Staffordshire"
+  },
+  {
+   "LAD26CD": "E07000193",
+   "LAD26NM": "East Staffordshire",
+   "CTYUA26CD": "E10000028",
+   "CTYUA26NM": "Staffordshire"
+  },
+  {
+   "LAD26CD": "E07000194",
+   "LAD26NM": "Lichfield",
+   "CTYUA26CD": "E10000028",
+   "CTYUA26NM": "Staffordshire"
+  },
+  {
+   "LAD26CD": "E07000195",
+   "LAD26NM": "Newcastle-under-Lyme",
+   "CTYUA26CD": "E10000028",
+   "CTYUA26NM": "Staffordshire"
+  },
+  {
+   "LAD26CD": "E07000196",
+   "LAD26NM": "South Staffordshire",
+   "CTYUA26CD": "E10000028",
+   "CTYUA26NM": "Staffordshire"
+  },
+  {
+   "LAD26CD": "E07000197",
+   "LAD26NM": "Stafford",
+   "CTYUA26CD": "E10000028",
+   "CTYUA26NM": "Staffordshire"
+  },
+  {
+   "LAD26CD": "E07000198",
+   "LAD26NM": "Staffordshire Moorlands",
+   "CTYUA26CD": "E10000028",
+   "CTYUA26NM": "Staffordshire"
+  },
+  {
+   "LAD26CD": "E07000199",
+   "LAD26NM": "Tamworth",
+   "CTYUA26CD": "E10000028",
+   "CTYUA26NM": "Staffordshire"
+  },
+  {
+   "LAD26CD": "E07000200",
+   "LAD26NM": "Babergh",
+   "CTYUA26CD": "E10000029",
+   "CTYUA26NM": "Suffolk"
+  },
+  {
+   "LAD26CD": "E07000202",
+   "LAD26NM": "Ipswich",
+   "CTYUA26CD": "E10000029",
+   "CTYUA26NM": "Suffolk"
+  },
+  {
+   "LAD26CD": "E07000203",
+   "LAD26NM": "Mid Suffolk",
+   "CTYUA26CD": "E10000029",
+   "CTYUA26NM": "Suffolk"
+  },
+  {
+   "LAD26CD": "E07000207",
+   "LAD26NM": "Elmbridge",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000208",
+   "LAD26NM": "Epsom and Ewell",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000209",
+   "LAD26NM": "Guildford",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000210",
+   "LAD26NM": "Mole Valley",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000211",
+   "LAD26NM": "Reigate and Banstead",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000212",
+   "LAD26NM": "Runnymede",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000213",
+   "LAD26NM": "Spelthorne",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000214",
+   "LAD26NM": "Surrey Heath",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000215",
+   "LAD26NM": "Tandridge",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000216",
+   "LAD26NM": "Waverley",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000217",
+   "LAD26NM": "Woking",
+   "CTYUA26CD": "E10000030",
+   "CTYUA26NM": "Surrey"
+  },
+  {
+   "LAD26CD": "E07000218",
+   "LAD26NM": "North Warwickshire",
+   "CTYUA26CD": "E10000031",
+   "CTYUA26NM": "Warwickshire"
+  },
+  {
+   "LAD26CD": "E07000219",
+   "LAD26NM": "Nuneaton and Bedworth",
+   "CTYUA26CD": "E10000031",
+   "CTYUA26NM": "Warwickshire"
+  },
+  {
+   "LAD26CD": "E07000220",
+   "LAD26NM": "Rugby",
+   "CTYUA26CD": "E10000031",
+   "CTYUA26NM": "Warwickshire"
+  },
+  {
+   "LAD26CD": "E07000221",
+   "LAD26NM": "Stratford-on-Avon",
+   "CTYUA26CD": "E10000031",
+   "CTYUA26NM": "Warwickshire"
+  },
+  {
+   "LAD26CD": "E07000222",
+   "LAD26NM": "Warwick",
+   "CTYUA26CD": "E10000031",
+   "CTYUA26NM": "Warwickshire"
+  },
+  {
+   "LAD26CD": "E07000223",
+   "LAD26NM": "Adur",
+   "CTYUA26CD": "E10000032",
+   "CTYUA26NM": "West Sussex"
+  },
+  {
+   "LAD26CD": "E07000224",
+   "LAD26NM": "Arun",
+   "CTYUA26CD": "E10000032",
+   "CTYUA26NM": "West Sussex"
+  },
+  {
+   "LAD26CD": "E07000225",
+   "LAD26NM": "Chichester",
+   "CTYUA26CD": "E10000032",
+   "CTYUA26NM": "West Sussex"
+  },
+  {
+   "LAD26CD": "E07000226",
+   "LAD26NM": "Crawley",
+   "CTYUA26CD": "E10000032",
+   "CTYUA26NM": "West Sussex"
+  },
+  {
+   "LAD26CD": "E07000227",
+   "LAD26NM": "Horsham",
+   "CTYUA26CD": "E10000032",
+   "CTYUA26NM": "West Sussex"
+  },
+  {
+   "LAD26CD": "E07000228",
+   "LAD26NM": "Mid Sussex",
+   "CTYUA26CD": "E10000032",
+   "CTYUA26NM": "West Sussex"
+  },
+  {
+   "LAD26CD": "E07000229",
+   "LAD26NM": "Worthing",
+   "CTYUA26CD": "E10000032",
+   "CTYUA26NM": "West Sussex"
+  },
+  {
+   "LAD26CD": "E07000234",
+   "LAD26NM": "Bromsgrove",
+   "CTYUA26CD": "E10000034",
+   "CTYUA26NM": "Worcestershire"
+  },
+  {
+   "LAD26CD": "E07000235",
+   "LAD26NM": "Malvern Hills",
+   "CTYUA26CD": "E10000034",
+   "CTYUA26NM": "Worcestershire"
+  },
+  {
+   "LAD26CD": "E07000236",
+   "LAD26NM": "Redditch",
+   "CTYUA26CD": "E10000034",
+   "CTYUA26NM": "Worcestershire"
+  },
+  {
+   "LAD26CD": "E07000237",
+   "LAD26NM": "Worcester",
+   "CTYUA26CD": "E10000034",
+   "CTYUA26NM": "Worcestershire"
+  },
+  {
+   "LAD26CD": "E07000238",
+   "LAD26NM": "Wychavon",
+   "CTYUA26CD": "E10000034",
+   "CTYUA26NM": "Worcestershire"
+  },
+  {
+   "LAD26CD": "E07000239",
+   "LAD26NM": "Wyre Forest",
+   "CTYUA26CD": "E10000034",
+   "CTYUA26NM": "Worcestershire"
+  },
+  {
+   "LAD26CD": "E07000240",
+   "LAD26NM": "St Albans",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000241",
+   "LAD26NM": "Welwyn Hatfield",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000242",
+   "LAD26NM": "East Hertfordshire",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000243",
+   "LAD26NM": "Stevenage",
+   "CTYUA26CD": "E10000015",
+   "CTYUA26NM": "Hertfordshire"
+  },
+  {
+   "LAD26CD": "E07000244",
+   "LAD26NM": "East Suffolk",
+   "CTYUA26CD": "E10000029",
+   "CTYUA26NM": "Suffolk"
+  },
+  {
+   "LAD26CD": "E07000245",
+   "LAD26NM": "West Suffolk",
+   "CTYUA26CD": "E10000029",
+   "CTYUA26NM": "Suffolk"
+  },
+  {
+   "LAD26CD": "E08000001",
+   "LAD26NM": "Bolton",
+   "CTYUA26CD": "E08000001",
+   "CTYUA26NM": "Bolton"
+  },
+  {
+   "LAD26CD": "E08000002",
+   "LAD26NM": "Bury",
+   "CTYUA26CD": "E08000002",
+   "CTYUA26NM": "Bury"
+  },
+  {
+   "LAD26CD": "E08000003",
+   "LAD26NM": "Manchester",
+   "CTYUA26CD": "E08000003",
+   "CTYUA26NM": "Manchester"
+  },
+  {
+   "LAD26CD": "E08000004",
+   "LAD26NM": "Oldham",
+   "CTYUA26CD": "E08000004",
+   "CTYUA26NM": "Oldham"
+  },
+  {
+   "LAD26CD": "E08000005",
+   "LAD26NM": "Rochdale",
+   "CTYUA26CD": "E08000005",
+   "CTYUA26NM": "Rochdale"
+  },
+  {
+   "LAD26CD": "E08000006",
+   "LAD26NM": "Salford",
+   "CTYUA26CD": "E08000006",
+   "CTYUA26NM": "Salford"
+  },
+  {
+   "LAD26CD": "E08000007",
+   "LAD26NM": "Stockport",
+   "CTYUA26CD": "E08000007",
+   "CTYUA26NM": "Stockport"
+  },
+  {
+   "LAD26CD": "E08000008",
+   "LAD26NM": "Tameside",
+   "CTYUA26CD": "E08000008",
+   "CTYUA26NM": "Tameside"
+  },
+  {
+   "LAD26CD": "E08000009",
+   "LAD26NM": "Trafford",
+   "CTYUA26CD": "E08000009",
+   "CTYUA26NM": "Trafford"
+  },
+  {
+   "LAD26CD": "E08000010",
+   "LAD26NM": "Wigan",
+   "CTYUA26CD": "E08000010",
+   "CTYUA26NM": "Wigan"
+  },
+  {
+   "LAD26CD": "E08000011",
+   "LAD26NM": "Knowsley",
+   "CTYUA26CD": "E08000011",
+   "CTYUA26NM": "Knowsley"
+  },
+  {
+   "LAD26CD": "E08000012",
+   "LAD26NM": "Liverpool",
+   "CTYUA26CD": "E08000012",
+   "CTYUA26NM": "Liverpool"
+  },
+  {
+   "LAD26CD": "E08000013",
+   "LAD26NM": "St. Helens",
+   "CTYUA26CD": "E08000013",
+   "CTYUA26NM": "St. Helens"
+  },
+  {
+   "LAD26CD": "E08000014",
+   "LAD26NM": "Sefton",
+   "CTYUA26CD": "E08000014",
+   "CTYUA26NM": "Sefton"
+  },
+  {
+   "LAD26CD": "E08000015",
+   "LAD26NM": "Wirral",
+   "CTYUA26CD": "E08000015",
+   "CTYUA26NM": "Wirral"
+  },
+  {
+   "LAD26CD": "E08000017",
+   "LAD26NM": "Doncaster",
+   "CTYUA26CD": "E08000017",
+   "CTYUA26NM": "Doncaster"
+  },
+  {
+   "LAD26CD": "E08000018",
+   "LAD26NM": "Rotherham",
+   "CTYUA26CD": "E08000018",
+   "CTYUA26NM": "Rotherham"
+  },
+  {
+   "LAD26CD": "E08000021",
+   "LAD26NM": "Newcastle upon Tyne",
+   "CTYUA26CD": "E08000021",
+   "CTYUA26NM": "Newcastle upon Tyne"
+  },
+  {
+   "LAD26CD": "E08000022",
+   "LAD26NM": "North Tyneside",
+   "CTYUA26CD": "E08000022",
+   "CTYUA26NM": "North Tyneside"
+  },
+  {
+   "LAD26CD": "E08000023",
+   "LAD26NM": "South Tyneside",
+   "CTYUA26CD": "E08000023",
+   "CTYUA26NM": "South Tyneside"
+  },
+  {
+   "LAD26CD": "E08000024",
+   "LAD26NM": "Sunderland",
+   "CTYUA26CD": "E08000024",
+   "CTYUA26NM": "Sunderland"
+  },
+  {
+   "LAD26CD": "E08000025",
+   "LAD26NM": "Birmingham",
+   "CTYUA26CD": "E08000025",
+   "CTYUA26NM": "Birmingham"
+  },
+  {
+   "LAD26CD": "E08000026",
+   "LAD26NM": "Coventry",
+   "CTYUA26CD": "E08000026",
+   "CTYUA26NM": "Coventry"
+  },
+  {
+   "LAD26CD": "E08000027",
+   "LAD26NM": "Dudley",
+   "CTYUA26CD": "E08000027",
+   "CTYUA26NM": "Dudley"
+  },
+  {
+   "LAD26CD": "E08000028",
+   "LAD26NM": "Sandwell",
+   "CTYUA26CD": "E08000028",
+   "CTYUA26NM": "Sandwell"
+  },
+  {
+   "LAD26CD": "E08000029",
+   "LAD26NM": "Solihull",
+   "CTYUA26CD": "E08000029",
+   "CTYUA26NM": "Solihull"
+  },
+  {
+   "LAD26CD": "E08000030",
+   "LAD26NM": "Walsall",
+   "CTYUA26CD": "E08000030",
+   "CTYUA26NM": "Walsall"
+  },
+  {
+   "LAD26CD": "E08000031",
+   "LAD26NM": "Wolverhampton",
+   "CTYUA26CD": "E08000031",
+   "CTYUA26NM": "Wolverhampton"
+  },
+  {
+   "LAD26CD": "E08000032",
+   "LAD26NM": "Bradford",
+   "CTYUA26CD": "E08000032",
+   "CTYUA26NM": "Bradford"
+  },
+  {
+   "LAD26CD": "E08000033",
+   "LAD26NM": "Calderdale",
+   "CTYUA26CD": "E08000033",
+   "CTYUA26NM": "Calderdale"
+  },
+  {
+   "LAD26CD": "E08000034",
+   "LAD26NM": "Kirklees",
+   "CTYUA26CD": "E08000034",
+   "CTYUA26NM": "Kirklees"
+  },
+  {
+   "LAD26CD": "E08000035",
+   "LAD26NM": "Leeds",
+   "CTYUA26CD": "E08000035",
+   "CTYUA26NM": "Leeds"
+  },
+  {
+   "LAD26CD": "E08000036",
+   "LAD26NM": "Wakefield",
+   "CTYUA26CD": "E08000036",
+   "CTYUA26NM": "Wakefield"
+  },
+  {
+   "LAD26CD": "E08000037",
+   "LAD26NM": "Gateshead",
+   "CTYUA26CD": "E08000037",
+   "CTYUA26NM": "Gateshead"
+  },
+  {
+   "LAD26CD": "E08000038",
+   "LAD26NM": "Barnsley",
+   "CTYUA26CD": "E08000038",
+   "CTYUA26NM": "Barnsley"
+  },
+  {
+   "LAD26CD": "E08000039",
+   "LAD26NM": "Sheffield",
+   "CTYUA26CD": "E08000039",
+   "CTYUA26NM": "Sheffield"
+  },
+  {
+   "LAD26CD": "E09000001",
+   "LAD26NM": "City of London",
+   "CTYUA26CD": "E09000001",
+   "CTYUA26NM": "City of London"
+  },
+  {
+   "LAD26CD": "E09000002",
+   "LAD26NM": "Barking and Dagenham",
+   "CTYUA26CD": "E09000002",
+   "CTYUA26NM": "Barking and Dagenham"
+  },
+  {
+   "LAD26CD": "E09000003",
+   "LAD26NM": "Barnet",
+   "CTYUA26CD": "E09000003",
+   "CTYUA26NM": "Barnet"
+  },
+  {
+   "LAD26CD": "E09000004",
+   "LAD26NM": "Bexley",
+   "CTYUA26CD": "E09000004",
+   "CTYUA26NM": "Bexley"
+  },
+  {
+   "LAD26CD": "E09000005",
+   "LAD26NM": "Brent",
+   "CTYUA26CD": "E09000005",
+   "CTYUA26NM": "Brent"
+  },
+  {
+   "LAD26CD": "E09000006",
+   "LAD26NM": "Bromley",
+   "CTYUA26CD": "E09000006",
+   "CTYUA26NM": "Bromley"
+  },
+  {
+   "LAD26CD": "E09000007",
+   "LAD26NM": "Camden",
+   "CTYUA26CD": "E09000007",
+   "CTYUA26NM": "Camden"
+  },
+  {
+   "LAD26CD": "E09000008",
+   "LAD26NM": "Croydon",
+   "CTYUA26CD": "E09000008",
+   "CTYUA26NM": "Croydon"
+  },
+  {
+   "LAD26CD": "E09000009",
+   "LAD26NM": "Ealing",
+   "CTYUA26CD": "E09000009",
+   "CTYUA26NM": "Ealing"
+  },
+  {
+   "LAD26CD": "E09000010",
+   "LAD26NM": "Enfield",
+   "CTYUA26CD": "E09000010",
+   "CTYUA26NM": "Enfield"
+  },
+  {
+   "LAD26CD": "E09000011",
+   "LAD26NM": "Greenwich",
+   "CTYUA26CD": "E09000011",
+   "CTYUA26NM": "Greenwich"
+  },
+  {
+   "LAD26CD": "E09000012",
+   "LAD26NM": "Hackney",
+   "CTYUA26CD": "E09000012",
+   "CTYUA26NM": "Hackney"
+  },
+  {
+   "LAD26CD": "E09000013",
+   "LAD26NM": "Hammersmith and Fulham",
+   "CTYUA26CD": "E09000013",
+   "CTYUA26NM": "Hammersmith and Fulham"
+  },
+  {
+   "LAD26CD": "E09000014",
+   "LAD26NM": "Haringey",
+   "CTYUA26CD": "E09000014",
+   "CTYUA26NM": "Haringey"
+  },
+  {
+   "LAD26CD": "E09000015",
+   "LAD26NM": "Harrow",
+   "CTYUA26CD": "E09000015",
+   "CTYUA26NM": "Harrow"
+  },
+  {
+   "LAD26CD": "E09000016",
+   "LAD26NM": "Havering",
+   "CTYUA26CD": "E09000016",
+   "CTYUA26NM": "Havering"
+  },
+  {
+   "LAD26CD": "E09000017",
+   "LAD26NM": "Hillingdon",
+   "CTYUA26CD": "E09000017",
+   "CTYUA26NM": "Hillingdon"
+  },
+  {
+   "LAD26CD": "E09000018",
+   "LAD26NM": "Hounslow",
+   "CTYUA26CD": "E09000018",
+   "CTYUA26NM": "Hounslow"
+  },
+  {
+   "LAD26CD": "E09000019",
+   "LAD26NM": "Islington",
+   "CTYUA26CD": "E09000019",
+   "CTYUA26NM": "Islington"
+  },
+  {
+   "LAD26CD": "E09000020",
+   "LAD26NM": "Kensington and Chelsea",
+   "CTYUA26CD": "E09000020",
+   "CTYUA26NM": "Kensington and Chelsea"
+  },
+  {
+   "LAD26CD": "E09000021",
+   "LAD26NM": "Kingston upon Thames",
+   "CTYUA26CD": "E09000021",
+   "CTYUA26NM": "Kingston upon Thames"
+  },
+  {
+   "LAD26CD": "E09000022",
+   "LAD26NM": "Lambeth",
+   "CTYUA26CD": "E09000022",
+   "CTYUA26NM": "Lambeth"
+  },
+  {
+   "LAD26CD": "E09000023",
+   "LAD26NM": "Lewisham",
+   "CTYUA26CD": "E09000023",
+   "CTYUA26NM": "Lewisham"
+  },
+  {
+   "LAD26CD": "E09000024",
+   "LAD26NM": "Merton",
+   "CTYUA26CD": "E09000024",
+   "CTYUA26NM": "Merton"
+  },
+  {
+   "LAD26CD": "E09000025",
+   "LAD26NM": "Newham",
+   "CTYUA26CD": "E09000025",
+   "CTYUA26NM": "Newham"
+  },
+  {
+   "LAD26CD": "E09000026",
+   "LAD26NM": "Redbridge",
+   "CTYUA26CD": "E09000026",
+   "CTYUA26NM": "Redbridge"
+  },
+  {
+   "LAD26CD": "E09000027",
+   "LAD26NM": "Richmond upon Thames",
+   "CTYUA26CD": "E09000027",
+   "CTYUA26NM": "Richmond upon Thames"
+  },
+  {
+   "LAD26CD": "E09000028",
+   "LAD26NM": "Southwark",
+   "CTYUA26CD": "E09000028",
+   "CTYUA26NM": "Southwark"
+  },
+  {
+   "LAD26CD": "E09000029",
+   "LAD26NM": "Sutton",
+   "CTYUA26CD": "E09000029",
+   "CTYUA26NM": "Sutton"
+  },
+  {
+   "LAD26CD": "E09000030",
+   "LAD26NM": "Tower Hamlets",
+   "CTYUA26CD": "E09000030",
+   "CTYUA26NM": "Tower Hamlets"
+  },
+  {
+   "LAD26CD": "E09000031",
+   "LAD26NM": "Waltham Forest",
+   "CTYUA26CD": "E09000031",
+   "CTYUA26NM": "Waltham Forest"
+  },
+  {
+   "LAD26CD": "E09000032",
+   "LAD26NM": "Wandsworth",
+   "CTYUA26CD": "E09000032",
+   "CTYUA26NM": "Wandsworth"
+  },
+  {
+   "LAD26CD": "E09000033",
+   "LAD26NM": "Westminster",
+   "CTYUA26CD": "E09000033",
+   "CTYUA26NM": "Westminster"
+  }
+ ]
+}
