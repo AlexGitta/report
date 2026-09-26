@@ -3,76 +3,205 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Report: local problems, sorted</title>
-  <meta name="description" content="A prototype app for reporting potholes, fly-tipping, missed bins and anti-social behaviour in England, routed automatically to the right council or police force.">
+  <title>Report: local problems, sent to the right people</title>
+  <meta name="description" content="Report potholes, fly-tipping, missed bins and anti-social behaviour in England. The app identifies the problem from your photo and sends it to the right council or police force.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #ffffff; --fg: #111418; --muted: #5b6470; --line: #e3e6ea; --card: #f5f7f8; --accent: #0b6e4f;
-    }
-    @media (prefers-color-scheme: dark) {
-      :root { --bg: #0b0d0f; --fg: #eef1f3; --muted: #9aa3ad; --line: #22272c; --card: #14181b; --accent: #3ddc97; }
+      --black: #000000;
+      --white: #ffffff;
+      --grey: #9b9ea3;
+      --dim: #5f6368;
+      --line: #232427;
+      --surface: #111213;
+      --frame-w: 260px;
     }
     * { box-sizing: border-box; }
-    body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
-    main { max-width: 880px; margin: 0 auto; padding: 56px 16px 72px; }
-    h1 { font-size: 40px; line-height: 1.1; margin: 0 0 12px; letter-spacing: -0.02em; }
-    h2 { font-size: 20px; margin: 48px 0 12px; }
-    p, li { color: var(--muted); }
-    strong { color: var(--fg); }
-    a { color: var(--accent); }
-    .lead { font-size: 19px; max-width: 640px; }
-    .tag { display: inline-block; font-size: 13px; font-weight: 600; color: var(--accent); border: 1px solid var(--accent); border-radius: 999px; padding: 2px 10px; margin-bottom: 16px; }
-    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; padding: 0; list-style: none; counter-reset: s; }
-    .steps li { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px; counter-increment: s; }
-    .steps li::before { content: counter(s); display: block; font-weight: 700; color: var(--accent); margin-bottom: 4px; }
-    .shots { display: flex; gap: 16px; overflow-x: auto; padding: 4px 2px 12px; scroll-snap-type: x mandatory; }
-    figure { margin: 0; flex: 0 0 230px; scroll-snap-align: start; }
-    /* Fixed-height frame; screenshots keep full width and only crop from the bottom. */
-    .frame { height: 460px; overflow: hidden; border-radius: 18px; border: 1px solid var(--line); background: #000; }
-    .frame img { width: 100%; height: auto; display: block; }
-    figcaption { font-size: 14px; color: var(--muted); margin-top: 8px; }
-    ul { padding-left: 20px; }
-    footer { margin-top: 56px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 13px; color: var(--muted); }
-    footer p { margin: 4px 0; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--black);
+      color: var(--white);
+      font: 400 17px/1.6 "Inter Tight", system-ui, -apple-system, "Segoe UI", sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--white); text-underline-offset: 3px; text-decoration-color: var(--dim); }
+    a:hover { text-decoration-color: var(--white); }
+    :focus-visible { outline: 2px solid var(--white); outline-offset: 3px; border-radius: 4px; }
+
+    .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+
+    /* Header */
+    .top { display: flex; justify-content: space-between; align-items: center; padding: 28px 0; }
+    .brand { font-weight: 700; font-size: 18px; letter-spacing: -0.01em; text-decoration: none; }
+    .top a.gh { color: var(--grey); font-size: 15px; text-decoration: none; }
+    .top a.gh:hover { color: var(--white); }
+
+    /* Intro */
+    .intro { padding: 56px 0 48px; max-width: 760px; }
+    h1 {
+      font-size: clamp(40px, 7vw, 76px);
+      line-height: 1.02;
+      letter-spacing: -0.025em;
+      font-weight: 800;
+      margin: 0 0 24px;
+    }
+    .lead { font-size: clamp(18px, 2.2vw, 21px); color: var(--grey); max-width: 620px; margin: 0; }
+
+    /* Slider */
+    .slider { position: relative; margin: 8px 0 0; }
+    .track {
+      display: flex; gap: 28px;
+      overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth;
+      padding: 8px 24px 8px max(24px, calc((100vw - 1080px) / 2 + 24px));
+      scroll-padding-left: max(24px, calc((100vw - 1080px) / 2 + 24px));
+      scrollbar-width: none;
+      -webkit-mask-image: linear-gradient(to right, #000 85%, transparent);
+              mask-image: linear-gradient(to right, #000 85%, transparent);
+    }
+    .track::-webkit-scrollbar { display: none; }
+    .shot { flex: 0 0 var(--frame-w); scroll-snap-align: start; margin: 0; }
+    .phone {
+      height: calc(var(--frame-w) * 2.08);
+      border-radius: 34px;
+      border: 1px solid var(--line);
+      background: var(--black);
+      overflow: hidden;
+      box-shadow: 0 0 0 6px var(--surface);
+      margin: 6px;
+    }
+    .phone img { width: 100%; height: auto; display: block; }
+    .shot figcaption { margin: 22px 6px 0; }
+    .shot h3 { font-size: 17px; font-weight: 600; margin: 0 0 2px; letter-spacing: -0.01em; }
+    .shot p { font-size: 15px; line-height: 1.45; color: var(--grey); margin: 0; }
+    .controls { display: flex; gap: 10px; justify-content: flex-end; margin-top: 28px; }
+    .controls button {
+      width: 44px; height: 44px; border-radius: 50%;
+      border: 1px solid var(--line); background: var(--black); color: var(--white);
+      font: inherit; font-size: 20px; line-height: 1; cursor: pointer;
+    }
+    .controls button:hover:not(:disabled) { border-color: var(--white); }
+    .controls button:disabled { color: var(--dim); cursor: default; }
+
+    /* Sections */
+    section { padding: 96px 0 0; }
+    h2 { font-size: 28px; letter-spacing: -0.02em; font-weight: 700; margin: 0 0 32px; }
+    .steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 32px; counter-reset: step; }
+    .steps li { border-top: 1px solid var(--line); padding-top: 20px; counter-increment: step; }
+    .steps li::before { content: counter(step); display: block; color: var(--dim); font-weight: 600; margin-bottom: 14px; }
+    .steps h3 { font-size: 19px; font-weight: 600; margin: 0 0 6px; letter-spacing: -0.01em; }
+    .steps p { color: var(--grey); margin: 0; font-size: 16px; }
+
+    .facts { list-style: none; margin: 0; padding: 0; max-width: 760px; }
+    .facts li { border-top: 1px solid var(--line); padding: 20px 0; color: var(--grey); }
+    .facts li:last-child { border-bottom: 1px solid var(--line); }
+    .facts strong { color: var(--white); font-weight: 600; }
+
+    footer { padding: 96px 0 56px; color: var(--dim); font-size: 14px; }
+    footer p { margin: 6px 0; max-width: 760px; }
+    footer a { color: var(--grey); }
+
+    @media (max-width: 800px) {
+      .steps { grid-template-columns: 1fr 1fr; }
+      :root { --frame-w: 230px; }
+    }
+    @media (max-width: 520px) {
+      .steps { grid-template-columns: 1fr; gap: 0; }
+      .steps li { padding-bottom: 20px; }
+      .intro { padding-top: 32px; }
+      section { padding-top: 72px; }
+      .controls { display: none; }
+    }
+    @media (prefers-reduced-motion: reduce) { .track { scroll-behavior: auto; } }
   </style>
 </head>
 <body>
-<main>
-  <span class="tag">Prototype · England</span>
-  <h1>Report local problems in a snap.</h1>
-  <p class="lead">Potholes, fly-tipping, missed bins, graffiti, anti-social behaviour. Take a photo and the app works out what the problem is and who's responsible, then gets it to them.</p>
+  <div class="wrap">
+    <header class="top">
+      <a class="brand" href="./">Report</a>
+      <a class="gh" href="https://github.com/AlexGitta/report">GitHub</a>
+    </header>
 
-  <h2>How it works</h2>
-  <ol class="steps">
-    <li><strong>Snap it.</strong> Add a photo, and AI suggests the category and a description.</li>
-    <li><strong>Pin it.</strong> It uses the photo's location or yours, and you can adjust it on the map.</li>
-    <li><strong>We route it.</strong> Council or police? County or district? It works that out for anywhere in England.</li>
-    <li><strong>Track it.</strong> Emailed or linked to the council's own form, then followed through to fixed.</li>
-  </ol>
-
-  <h2>Screenshots</h2>
-  <div class="shots">
-    <figure><div class="frame"><img src="img/home.png" alt="Map of nearby reports in Spinningfields, Manchester, with a list of reports and their status" loading="lazy"></div><figcaption>Reports near you</figcaption></figure>
-    <figure><div class="frame"><img src="img/detected.png" alt="A photo of a water-filled pothole by double yellow lines, detected as a pothole with 75% confidence, located from the photo" loading="lazy"></div><figcaption>Detected from the photo</figcaption></figure>
-    <figure><div class="frame"><img src="img/categories.png" alt="Report form with four category tiles" loading="lazy"></div><figcaption>Or pick it yourself</figcaption></figure>
-    <figure><div class="frame"><img src="img/safety.png" alt="Anti-social behaviour report with 999 and 101 prompts" loading="lazy"></div><figcaption>Safety first for ASB</figcaption></figure>
-    <figure><div class="frame"><img src="img/next-step.png" alt="Pothole report with a next step card linking to Manchester City Council's own form" loading="lazy"></div><figcaption>Straight to the right council form</figcaption></figure>
-    <figure><div class="frame"><img src="img/emailed.png" alt="ASB report emailed to Manchester City Council's ASB team and reported to Greater Manchester Police" loading="lazy"></div><figcaption>Emailed and tracked</figcaption></figure>
+    <div class="intro">
+      <h1>Report it once. We get it to the right people.</h1>
+      <p class="lead">Potholes, fly-tipping, missed bins, graffiti, anti-social behaviour. Take a photo and the app works out what the problem is, whether it’s for the council or the police, and sends it on.</p>
+    </div>
   </div>
 
-  <h2>What's inside</h2>
-  <ul>
-    <li><strong>Routing for all 317 English councils</strong>, including two-tier areas, plus all 39 English police forces.</li>
-    <li><strong>152 published council email addresses</strong> across 68 councils, and more than 2,500 links to councils' own reporting pages.</li>
-    <li><strong>AI photo checks</strong> with Claude: category, description and severity. Photos that may show faces or number plates stay private until a moderator checks them.</li>
-    <li><strong>Built with</strong> Expo (iOS, Android and web) and Supabase (Postgres/PostGIS and edge functions).</li>
-  </ul>
+  <div class="slider" aria-label="App screenshots">
+    <div class="track" id="track" tabindex="0">
+      <figure class="shot">
+        <div class="phone"><img src="img/home.png" alt="Map of nearby reports in Spinningfields, Manchester, with a list of reports and their status"></div>
+        <figcaption><h3>What’s been reported nearby</h3><p>See problems around you and whether they’ve been sent.</p></figcaption>
+      </figure>
+      <figure class="shot">
+        <div class="phone"><img src="img/detected.png" alt="A photo of a water-filled pothole, detected as a pothole with 75% confidence and located from the photo"></div>
+        <figcaption><h3>Detected from your photo</h3><p>AI suggests the problem and uses the photo’s location.</p></figcaption>
+      </figure>
+      <figure class="shot">
+        <div class="phone"><img src="img/safety.png" alt="Anti-social behaviour report with prompts to call 999 or 101"></div>
+        <figcaption><h3>Safety comes first</h3><p>Anti-social behaviour reports start with 999 and 101.</p></figcaption>
+      </figure>
+      <figure class="shot">
+        <div class="phone"><img src="img/next-step.png" alt="Pothole report with a step-by-step card linking to Manchester City Council’s own form"></div>
+        <figcaption><h3>Straight to the right form</h3><p>Copy your report and open the council’s own form.</p></figcaption>
+      </figure>
+      <figure class="shot">
+        <div class="phone"><img src="img/emailed.png" alt="Anti-social behaviour report emailed to Manchester City Council and reported to Greater Manchester Police"></div>
+        <figcaption><h3>Sent and tracked</h3><p>Emailed to the council, with the police form alongside.</p></figcaption>
+      </figure>
+    </div>
+    <div class="wrap">
+      <div class="controls">
+        <button type="button" id="prev" aria-label="Previous screenshot">‹</button>
+        <button type="button" id="next" aria-label="Next screenshot">›</button>
+      </div>
+    </div>
+  </div>
 
-  <footer>
-    <p>A prototype. It isn't a live service, and no reports are sent to real councils. <a href="https://github.com/alexgitta/report">Source on GitHub</a>.</p>
-    <p>Data: ONS Open Geography, GOV.UK Local Links and data.police.uk (Open Government Licence). Web maps © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>; the iPhone screenshots use Apple Maps.</p>
-  
-</footer>
-</main>
+  <div class="wrap">
+    <section>
+      <h2>How it works</h2>
+      <ol class="steps">
+        <li><h3>Snap it</h3><p>Add a photo. The app suggests what the problem is and writes a description.</p></li>
+        <li><h3>Pin it</h3><p>It uses where the photo was taken, or where you are. Adjust it on the map if needed.</p></li>
+        <li><h3>We route it</h3><p>Council or police? County or district? It works that out for anywhere in England.</p></li>
+        <li><h3>Track it</h3><p>Follow it from sent to fixed, with updates from neighbours along the way.</p></li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>What’s inside</h2>
+      <ul class="facts">
+        <li><strong>All 317 councils in England</strong>, including two-tier areas, plus all 39 English police forces.</li>
+        <li><strong>152 published council email addresses</strong> across 68 councils, and over 2,500 links to councils’ own reporting forms.</li>
+        <li><strong>Privacy by default.</strong> Photos that may show faces or number plates stay private until checked, and anti-social behaviour locations are shown approximately.</li>
+        <li><strong>Built with</strong> Expo for iOS, Android and web, Supabase, and Claude for photo recognition.</li>
+      </ul>
+    </section>
+
+    <footer>
+      <p>Council and police data: ONS Open Geography, GOV.UK Local Links and data.police.uk, under the Open Government Licence. Web maps © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>; iPhone screenshots use Apple Maps.</p>
+      <p><a href="https://github.com/AlexGitta/report">Source on GitHub</a></p>
+    </footer>
+  </div>
+
+  <script>
+    const track = document.getElementById('track');
+    const prev = document.getElementById('prev');
+    const next = document.getElementById('next');
+    const step = () => track.querySelector('.shot').getBoundingClientRect().width + 28;
+    const update = () => {
+      prev.disabled = track.scrollLeft < 4;
+      next.disabled = track.scrollLeft + track.clientWidth >= track.scrollWidth - 4;
+    };
+    prev.addEventListener('click', () => track.scrollBy({ left: -step() }));
+    next.addEventListener('click', () => track.scrollBy({ left: step() }));
+    track.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  </script>
 </body>
 </html>
